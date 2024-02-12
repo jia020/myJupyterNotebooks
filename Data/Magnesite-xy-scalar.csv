@@ -1,0 +1,708 @@
+State,BoreholeName,BoreholeURI,x,y,countSum,Length,TsgLink
+wa,05GJD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/05GJD001,118.9636,-33.7219,266,166.0,https://nvclstore.z8.web.core.windows.net/WA/05GJD001.zip
+wa,05KCD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/05KCD001,118.9696,-33.7236,297,142.0,https://nvclstore.z8.web.core.windows.net/WA/05KCD001.zip
+wa,09DKRCD001A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/09DKRCD001A,118.5704738,-27.10433525,16,279.4,https://nvclstore.z8.web.core.windows.net/WA/09DKRCD001A.zip
+wa,09FKRCD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/09FKRCD001,118.5627091,-27.11355068,1145,228.2,https://nvclstore.z8.web.core.windows.net/WA/09FKRCD001.zip
+wa,09HBRCD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/09HBRCD001,118.5185588,-27.12663047,95,328.2,https://nvclstore.z8.web.core.windows.net/WA/09HBRCD001.zip
+wa,10CHD006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/10CHD006,118.6923395,-26.97171978,1309,195.4,https://nvclstore.z8.web.core.windows.net/WA/10CHD006.zip
+wa,10KRD04,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/10KRD04,122.1313807,-22.36471815,401,154.8,
+wa,10KRD06,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/10KRD06,122.1093501,-22.34384874,439,205.5,
+wa,10LAD009,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/10LAD009,118.6798259,-26.96194294,1364,247.0,https://nvclstore.z8.web.core.windows.net/WA/10LAD009.zip
+wa,10TJD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/10TJD001,118.6492206,-27.05635786,406,340.0,https://nvclstore.z8.web.core.windows.net/WA/10TJD001.zip
+wa,11SAVD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/11SAVD003,120.8221689,-24.15332243,191,564.7,https://nvclstore.z8.web.core.windows.net/WA/11SAVD003.zip
+wa,12AMD0015,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/12AMD0015,122.1757204,-20.75791886,183,467.2,
+wa,12CADD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/12CADD002,116.6208138,-31.03193226,48,159.8,
+wa,12DHDD0001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/12DHDD0001,123.8758352,-28.01851127,100,334.5,
+wa,14AMD0043,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/14AMD0043,122.1751566,-20.75737404,356,210.6,
+wa,15BRDD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/15BRDD001,118.7720394,-25.7386684,8505,462.5,https://nvclstore.z8.web.core.windows.net/WA/15BRDD001.zip
+wa,15EIS001_wedge,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/15EIS001,123.8593622,-27.97755626,272,318.6,https://nvclstore.z8.web.core.windows.net/WA/15EIS001.zip
+wa,15SYDD0003B,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/15SYDD0003B,123.8971889,-28.5823982,251,452.2,https://nvclstore.z8.web.core.windows.net/WA/15SYDD0003B.zip
+wa,15SYDD0004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/15SYDD0004,123.8674083,-28.45636223,4903,701.1,https://nvclstore.z8.web.core.windows.net/WA/15SYDD0004.zip
+wa,17NNMD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/17NNMD001,121.5834,-21.6695,1809,505.15,https://nvclstore.z8.web.core.windows.net/WA/17NNMD001.zip
+wa,18AFRD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/18AFRD002,123.6137884,-31.2695687,154,610.1,https://nvclstore.z8.web.core.windows.net/WA/18AFRD002.zip
+wa,18JBDD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/18JBDD002,120.3845965,-32.26342602,89,376.2,https://nvclstore.z8.web.core.windows.net/WA/18JBDD002.zip
+wa,79-9D1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/79/9D1,124.854235,-17.562695,0,178.0,https://nvclstore.z8.web.core.windows.net/WA/79-9D1.zip
+wa,79-9D2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/79/9D2,124.854325,-17.562731,0,154.7,https://nvclstore.z8.web.core.windows.net/WA/79-9D2.zip
+wa,85IRCH1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/85IRCH1,115.5967727,-29.05371625,688,151.5,
+wa,95WGD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/95WGD002,117.554159,-26.97017,1036,233.0,https://nvclstore.z8.web.core.windows.net/WA/95WGD002.zip
+wa,95WGD004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/95WGD004,117.561253,-26.968102,59,357.8,https://nvclstore.z8.web.core.windows.net/WA/95WGD004.zip
+wa,95WGD006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/95WGD006,117.552004,-26.970332,2653,229.7,https://nvclstore.z8.web.core.windows.net/WA/95WGD006.zip
+wa,96GVD1001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/96GVD1001,117.57033,-26.965736,120,262.0,
+wa,AB62,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AB62,118.6021065,-24.63834096,135,600.9,
+wa,ABDP1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ABDP1,119.727225,-21.204419,189,264.0,
+wa,ABDP9,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ABDP9,117.42045,-21.991611,60494,882.3,https://nvclstore.z8.web.core.windows.net/WA/ABDP9.zip
+wa,ABND198,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ABND198,118.3909602,-26.58348598,61,180.0,https://nvclstore.z8.web.core.windows.net/WA/ABND198.zip
+wa,Acacia 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Acacia 2,124.995461,-19.329709,4787,855.2,
+wa,ADH 001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ADH 001,121.8679125,-30.76807622,74,1200.8,https://nvclstore.z8.web.core.windows.net/WA/ADH 001.zip
+wa,AHDH0001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AHDH0001,116.3815317,-26.03167297,5902,351.7,
+wa,Akubra 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Akubra 1,121.376867,-23.49035,204,166.05,https://nvclstore.z8.web.core.windows.net/WA/Akubra 1.zip
+wa,AMODD0026,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AMODD0026,117.9054623,-23.43503165,535,500.0,https://nvclstore.z8.web.core.windows.net/WA/AMODD0026.zip
+wa,AMODD0028,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AMODD0028,117.9069628,-23.4357737,568,685.0,https://nvclstore.z8.web.core.windows.net/WA/AMODD0028.zip
+wa,AR15,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AR15,115.2047831,-28.53503199,122,71.83,https://nvclstore.z8.web.core.windows.net/WA/AR15.zip
+wa,ARMCDD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ARMCDD001,116.1094638,-22.83147628,13732,228.0,https://nvclstore.z8.web.core.windows.net/WA/ARMCDD001.zip
+wa,ARMCRCD002A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ARMCRCD002A,116.1096373,-22.83252054,19786,221.7,https://nvclstore.z8.web.core.windows.net/WA/ARMCRCD002A.zip
+wa,AWD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/AWD003,116.7547713,-22.85090645,14218,553.6,https://nvclstore.z8.web.core.windows.net/WA/AWD003.zip
+wa,Barbwire 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Barbwire 1,125.017781,-19.175922,89,589.3,https://nvclstore.z8.web.core.windows.net/WA/Barbwire 1.zip
+wa,Barnicarndy 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Barnicarndy 1,121.7823389,-21.47854722,980,2100.15,https://nvclstore.z8.web.core.windows.net/WA/Barnicarndy 1.zip
+wa,BBDD0001_hole2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BBDD0001,120.893166,-28.45583158,204,803.6,https://nvclstore.z8.web.core.windows.net/WA/BBDD0001_hole2.zip
+wa,BBDD0002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BBDD0002,122.5678767,-30.71234736,302,147.3,https://nvclstore.z8.web.core.windows.net/WA/BBDD0002_hole2.zip
+wa,BCMH0070,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BCMH0070,118.4653,-31.2866,2104,159.27,https://nvclstore.z8.web.core.windows.net/WA/BCMH0070.zip
+wa,BDRCD009,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BDRCD009,122.6966693,-22.88133768,167,212.6,
+wa,BDRCD019,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BDRCD019,122.6956159,-22.88154344,102,263.5,
+wa,BH01_hole2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BH01,127.4375,-28.3801,31,398.3,https://nvclstore.z8.web.core.windows.net/WA/BH01_hole2.zip
+wa,BH02,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BH02,115.660012,-33.318482,32,5.0,https://nvclstore.z8.web.core.windows.net/WA/BH02_hole2.zip
+wa,BH03,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BH03,115.660414,-33.318152,27,8.5,
+wa,BKD 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BKD 1,126.2093822,-30.35454829,575,267.8,https://nvclstore.z8.web.core.windows.net/WA/BKD 1.zip
+wa,BKD 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BKD 2,126.1979656,-30.3686979,169,195.5,https://nvclstore.z8.web.core.windows.net/WA/BKD 2.zip
+wa,Blina 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Blina 1,124.5671111,-17.62346111,1620,1383.4,https://nvclstore.z8.web.core.windows.net/WA/Blina 1.zip
+wa,Blina 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Blina 2,124.497494,-17.617945,8887,326.52,https://nvclstore.z8.web.core.windows.net/WA/Blina 2.zip
+wa,BLRCD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BLRCD005,123.8784462,-32.51848303,99,68.5,
+wa,BLRCD006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BLRCD006,123.9512673,-32.72981544,403,76.1,
+wa,Bluebell 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Bluebell 1,114.95255,-20.256972,50,659.0,https://nvclstore.z8.web.core.windows.net/WA/Bluebell 1.zip
+wa,BOD202,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BOD202,121.6510095,-30.79131659,495,332.1,https://nvclstore.z8.web.core.windows.net/WA/BOD202.zip
+wa,BODH015,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BODH015,121.6357265,-30.79528343,2809,401.4,
+wa,BRAD0001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BRAD0001,128.9250888,-18.90249259,143,131.4,https://nvclstore.z8.web.core.windows.net/WA/BRAD0001.zip
+wa,BRDDH001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BRDDH001,124.9793593,-30.27232379,306,213.8,https://nvclstore.z8.web.core.windows.net/WA/BRDDH001.zip
+wa,Brooke 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Brooke 1,122.917668,-19.747824,292,789.0,https://nvclstore.z8.web.core.windows.net/WA/Brooke 1.zip
+wa,BUR2035,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BUR2035,121.827306,-30.65138746,96,19.9,https://nvclstore.z8.web.core.windows.net/WA/BUR2035.zip
+wa,BUR2037,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/BUR2037,121.8239034,-30.65228607,82,13.9,https://nvclstore.z8.web.core.windows.net/WA/BUR2037.zip
+wa,C179,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/C179,121.277778,-32.205556,98,76.58,https://nvclstore.z8.web.core.windows.net/WA/C179.zip
+wa,C6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/C6,121.897908,-20.35546761,149,225.0,https://nvclstore.z8.web.core.windows.net/WA/C6.zip
+wa,C8,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/C8,121.907812,-20.38024975,189,233.2,https://nvclstore.z8.web.core.windows.net/WA/C8.zip
+wa,Canopus 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Canopus 1,123.868301,-18.94666,542,8.4,https://nvclstore.z8.web.core.windows.net/WA/Canopus 1.zip
+wa,CB11DD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CB11DD005,118.3743471,-31.88624059,57,234.5,https://nvclstore.z8.web.core.windows.net/WA/CB11DD005.zip
+wa,CBD181,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CBD181,119.7408312,-32.58616895,2087,83.7,https://nvclstore.z8.web.core.windows.net/WA/CBD181.zip
+wa,CD16056A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CD16056A,121.7902381,-31.32632793,3544,599.0,https://nvclstore.z8.web.core.windows.net/WA/CD16056A.zip
+wa,CDD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CDD002,123.280461,-30.557462,194,570.4,https://nvclstore.z8.web.core.windows.net/WA/CDD002.zip
+wa,Central Gorgon 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Central Gorgon 1,114.810524,-20.467985,51,604.1,https://nvclstore.z8.web.core.windows.net/WA/Central Gorgon 1.zip
+wa,CH15_wedge,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CH15,122.54623,-28.86317203,2559,61.27,https://nvclstore.z8.web.core.windows.net/WA/CH15.zip
+wa,Chandon 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Chandon 2,114.129942,-19.549747,19,216.8,https://nvclstore.z8.web.core.windows.net/WA/Chandon 2.zip
+wa,CHORC-01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CHORC-01,115.7231274,-23.59061332,28,101.5,https://nvclstore.z8.web.core.windows.net/WA/CHORC-01.zip
+wa,CHRCD03,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CHRCD03,119.1219736,-30.98296576,10480,278.4,
+wa,CL1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CL1,117.024667,-20.651861,38,65.9,https://nvclstore.z8.web.core.windows.net/WA/CL1.zip
+wa,Coburn 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Coburn 1,114.226671,-26.699583,17616,1049.5,https://nvclstore.z8.web.core.windows.net/WA/Coburn 1.zip
+wa,Cockburn 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Cockburn 1,115.737511,-32.134781,72,2964.5,https://nvclstore.z8.web.core.windows.net/WA/Cockburn 1.zip
+wa,Commodore 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Commodore 1,122.441019,-19.188364,3705,347.5,https://nvclstore.z8.web.core.windows.net/WA/Commodore 1.zip
+wa,Corybas 1_cuttings,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Corybas 1,115.053456,-29.200601,38,99.0,https://nvclstore.z8.web.core.windows.net/WA/Corybas 1.zip
+wa,CUDD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CUDD001,116.9738915,-28.79109359,106,935.7,https://nvclstore.z8.web.core.windows.net/WA/CUDD001.zip
+wa,CXDD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CXDD003,122.2136642,-26.87644676,72,129.2,https://nvclstore.z8.web.core.windows.net/WA/CXDD003.zip
+wa,CZD0006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/CZD0006,126.6059339,-25.45435662,66,276.5,https://nvclstore.z8.web.core.windows.net/WA/CZD0006.zip
+wa,Dampiera 1A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Dampiera 1A,125.269631,-19.766931,75962,1722.05,
+wa,DD14IL014,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD14IL014,119.594277,-24.35237991,1054,493.1,
+wa,DD14IL175,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD14IL175,119.572752,-24.36416447,717,202.8,https://nvclstore.z8.web.core.windows.net/WA/DD14IL175.zip
+wa,DD84CDD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD84CDD1,127.144311,-19.294292,15386,354.1,https://nvclstore.z8.web.core.windows.net/WA/DD84CDD1.zip
+wa,DD84CDD2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD84CDD2,127.146209,-19.294763,20235,357.0,https://nvclstore.z8.web.core.windows.net/WA/DD84CDD2.zip
+wa,DD85BMW2B,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD85BMW2B,117.673008,-23.118689,65,1178.5,
+wa,DD85SGS1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD85SGS1,117.851706,-22.287032,798,2645.84,https://nvclstore.z8.web.core.windows.net/WA/DD85SGS1.zip
+wa,DD86WRL1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD86WRL1,118.21003,-22.191725,83948,1801.2,https://nvclstore.z8.web.core.windows.net/WA/DD86WRL1.zip
+wa,DD87SS7,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD87SS7,122.323744,-19.215563,6789,581.3,https://nvclstore.z8.web.core.windows.net/WA/DD87SS7.zip
+wa,DD88MB2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD88MB2,125.326393,-17.18801,143,450.0,https://nvclstore.z8.web.core.windows.net/WA/DD88MB2.zip
+wa,DD93HS1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD93HS1,117.240997,-22.878969,60,96.8,https://nvclstore.z8.web.core.windows.net/WA/DD93HS1.zip
+wa,DD93HS2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD93HS2,117.200531,-22.787678,45,102.3,https://nvclstore.z8.web.core.windows.net/WA/DD93HS2.zip
+wa,DD93RD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD93RD1,117.269981,-22.769698,445,98.3,
+wa,DD97CB038A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD97CB038A,121.6248953,-30.06979607,345,300.0,https://nvclstore.z8.web.core.windows.net/WA/DD97CB038A.zip
+wa,DD98SGP001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DD98SGP001,116.8349508,-22.05829398,86,362.8,https://nvclstore.z8.web.core.windows.net/WA/DD98SGP001.zip
+wa,DDH1-F1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DDH1-F1,118.361268,-25.33374363,1392,814.2,https://nvclstore.z8.web.core.windows.net/WA/DDH1-F1.zip
+wa,DDH83 FVG1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DDH83 FVG1,119.492772,-22.560831,41871,1624.01,https://nvclstore.z8.web.core.windows.net/WA/DDH83 FVG1.zip
+wa,DDH84SH1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DDH84SH1,117.681211,-21.709291,206,605.0,https://nvclstore.z8.web.core.windows.net/WA/DDH84SH1.zip
+wa,DDH84SV1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DDH84SV1,118.042473,-21.592007,162,958.6,
+wa,DDH84SV2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DDH84SV2,118.05344,-21.55246,94,195.1,
+wa,Dirk Hartog 17B,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Dirk Hartog 17B,113.079642,-25.867389,1641,989.99,https://nvclstore.z8.web.core.windows.net/WA/Dirk Hartog 17B.zip
+wa,DMP Harvey 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DMP Harvey 2,115.84436,-33.008824,1622,1143.5,https://nvclstore.z8.web.core.windows.net/WA/DMP Harvey 2.zip
+wa,DMP Harvey 3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DMP Harvey 3,115.794078,-33.037624,863,152.8,https://nvclstore.z8.web.core.windows.net/WA/DMP Harvey 3A.zip
+wa,Dodonea 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Dodonea 1,125.162043,-19.385041,263,1012.3,https://nvclstore.z8.web.core.windows.net/WA/Dodonea 1.zip
+wa,DS09RMD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DS09RMD001,122.3917481,-29.09683282,136,673.3,
+wa,DX,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/DX,117.001639,-20.662111,489,100.6,https://nvclstore.z8.web.core.windows.net/WA/DX.zip
+wa,E4DD0803,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/E4DD0803,124.9256995,-17.67115393,4466,169.6,https://nvclstore.z8.web.core.windows.net/WA/E4DD0803.zip
+wa,E9GT25,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/E9GT25,124.857864,-17.564287,125,103.3,https://nvclstore.z8.web.core.windows.net/WA/E9GT25.zip
+wa,EC154D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EC154D,122.8304733,-31.24930669,166,423.4,https://nvclstore.z8.web.core.windows.net/WA/EC154D.zip
+wa,EC155D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EC155D,122.8292572,-31.24225191,1875,312.2,https://nvclstore.z8.web.core.windows.net/WA/EC155D.zip
+wa,EC156D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EC156D,122.8194738,-31.22908951,630,468.0,https://nvclstore.z8.web.core.windows.net/WA/EC156D.zip
+wa,EC157D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EC157D,122.829813,-31.25206591,1272,189.0,https://nvclstore.z8.web.core.windows.net/WA/EC157D.zip
+wa,EC158D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EC158D,122.8320182,-31.25405474,1495,125.7,https://nvclstore.z8.web.core.windows.net/WA/EC158D.zip
+wa,EDD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EDD005,116.8967705,-22.92638581,16712,544.0,https://nvclstore.z8.web.core.windows.net/WA/EDD005.zip
+wa,EMSD1138,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EMSD1138,120.4952093,-27.96309324,498,945.7,
+wa,EPT0798,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EPT0798,115.9283115,-21.96809791,89,401.3,https://nvclstore.z8.web.core.windows.net/WA/EPT0798.zip
+wa,EPT2192,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/EPT2192,121.6418995,-22.08810066,27720,377.7,
+wa,ERCD0142,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ERCD0142,120.9419479,-26.76092576,3013,56.1,https://nvclstore.z8.web.core.windows.net/WA/ERCD0142.zip
+wa,ERCD0145,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ERCD0145,120.9427106,-26.76267876,749,51.1,https://nvclstore.z8.web.core.windows.net/WA/ERCD0145.zip
+wa,ERCD0151,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ERCD0151,120.944089,-26.76094783,2536,192.45,https://nvclstore.z8.web.core.windows.net/WA/ERCD0151.zip
+wa,Eremophila 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Eremophila 1,125.204828,-19.779149,74808,1135.3,https://nvclstore.z8.web.core.windows.net/WA/Eremophila 1.zip
+wa,FD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FD1,116.7958102,-24.11437822,2529,472.0,
+wa,FFD01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FFD01,120.9176699,-30.94339068,286,189.4,https://nvclstore.z8.web.core.windows.net/WA/FFD01.zip
+wa,FMM397,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FMM397,120.073351,-31.219169,139,106.8,
+wa,FOR010,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FOR010,128.36604,-30.5186,104,300.8,https://nvclstore.z8.web.core.windows.net/WA/FOR010.zip
+wa,FOR011,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FOR011,128.17583,-30.61716,823,411.5,https://nvclstore.z8.web.core.windows.net/WA/FOR011.zip
+wa,FOR012,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/FOR012,127.98577,-31.300655,69,200.5,
+wa,GBD031,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GBD031,116.100354,-25.39147318,146,130.0,
+wa,GBD040,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GBD040,116.1005856,-25.39001546,26,88.9,
+wa,Gingerah Hill 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Gingerah Hill 1,122.368042,-19.4684,992,961.5,https://nvclstore.z8.web.core.windows.net/WA/Gingerah Hill 1.zip
+wa,Gingin 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Gingin 1,115.827222,-31.143056,398,4065.8,https://nvclstore.z8.web.core.windows.net/WA/Gingin 1_cuttings.zip
+wa,Goldwyer 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Goldwyer 1,122.384336,-18.379472,104,535.5,https://nvclstore.z8.web.core.windows.net/WA/Goldwyer 1.zip
+wa,Goodwyn 05,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Goodwyn 05,115.897162,-19.676977,51,635.75,https://nvclstore.z8.web.core.windows.net/WA/Goodwyn 05.zip
+wa,Goodwyn 06,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Goodwyn 06,115.854678,-19.721916,767,1008.78,https://nvclstore.z8.web.core.windows.net/WA/Goodwyn 06.zip
+wa,Gorgon 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Gorgon 1,114.774089,-20.57734,255,479.8,https://nvclstore.z8.web.core.windows.net/WA/Gorgon 1.zip
+wa,GPD1464,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GPD1464,120.073351,-31.219102,87,109.3,
+wa,GRRCD007,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GRRCD007,121.7103941,-30.91313759,10479,248.0,
+wa,GSWA Empress 1A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Empress 1/1A,125.158131,-27.052325,0,1414.1,https://nvclstore.z8.web.core.windows.net/WA/GSWA Empress 1A.zip
+wa,GSWA Gneudna 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Gneudna 1,115.218025,-23.971492,909,88.1,https://nvclstore.z8.web.core.windows.net/WA/GSWA Gneudna 1A.zip
+wa,GSWA Harvey 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Harvey 1,115.774489,-32.991886,18,1637.0,https://nvclstore.z8.web.core.windows.net/WA/GSWA Harvey 1.zip
+wa,GSWA Lancer 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Lancer 1,123.755583,-25.045694,17425,1397.23,https://nvclstore.z8.web.core.windows.net/WA/GSWA Lancer 1.zip
+wa,GSWA Vines 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Vines 1,128.252144,-26.701353,6911,1973.0,https://nvclstore.z8.web.core.windows.net/WA/GSWA Vines 1.zip
+wa,GSWA Woodleigh 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GSWA Woodleigh 1,114.665636,-26.055348,729,142.6,https://nvclstore.z8.web.core.windows.net/WA/GSWA Woodleigh 1.zip
+wa,GUD173,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GUD173,121.649229,-30.39341382,1800,53.6,https://nvclstore.z8.web.core.windows.net/WA/GUD173.zip
+wa,GUD174,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GUD174,121.6492309,-30.39341406,3182,58.6,https://nvclstore.z8.web.core.windows.net/WA/GUD174.zip
+wa,GUD175,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GUD175,121.6492309,-30.39341373,3605,65.6,https://nvclstore.z8.web.core.windows.net/WA/GUD175.zip
+wa,GXDD0010,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GXDD0010,117.7995396,-28.03967139,1598,531.7,https://nvclstore.z8.web.core.windows.net/WA/GXDD0010.zip
+wa,GXDD0012,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/GXDD0012,117.7998863,-28.0403088,27,102.3,https://nvclstore.z8.web.core.windows.net/WA/GXDD0012.zip
+wa,HAC 9201,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HAC 9201,122.65105,-21.722997,359,266.9,https://nvclstore.z8.web.core.windows.net/WA/HAC 9201.zip
+wa,Hamelin Pool 1 (M188),http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Hamelin Pool 1 (M188),114.207807,-26.025272,536,177.69,https://nvclstore.z8.web.core.windows.net/WA/Hamelin Pool 1 (M188).zip
+wa,Hamelin Pool 2 (M188),http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Hamelin Pool 2 (M188),114.356667,-26.148611,2290,64.0,https://nvclstore.z8.web.core.windows.net/WA/Hamelin Pool 2 (M188).zip
+wa,HBC1150-18,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HBC1150-18,121.431992,-31.080917,1128,265.4,https://nvclstore.z8.web.core.windows.net/WA/HBC1150-18.zip
+wa,HDDH001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HDDH001,126.0790805,-31.05342551,1208,323.8,https://nvclstore.z8.web.core.windows.net/WA/HDDH001.zip
+wa,HDDH002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HDDH002,126.103527,-30.94513259,389,214.4,https://nvclstore.z8.web.core.windows.net/WA/HDDH002.zip
+wa,HND0002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HND0002,121.4752369,-30.73315225,62,155.6,https://nvclstore.z8.web.core.windows.net/WA/HND0002.zip
+wa,Hovea 3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Hovea 3,115.041275,-29.317978,20,81.26,https://nvclstore.z8.web.core.windows.net/WA/Hovea 3_cuttings.zip
+wa,HRYRCD-01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HRYRCD-01,115.9510605,-23.67383988,48467,374.2,https://nvclstore.z8.web.core.windows.net/WA/HRYRCD-01.zip
+wa,HY2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/HY2,118.5685378,-24.64932246,78,638.5,https://nvclstore.z8.web.core.windows.net/WA/HY2.zip
+wa,ID001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ID001,117.2763679,-23.13863721,16597,270.5,https://nvclstore.z8.web.core.windows.net/WA/ID001.zip
+wa,IRKDD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/IRKDD002,128.2923553,-17.12120251,33,185.7,https://nvclstore.z8.web.core.windows.net/WA/IRKDD002.zip
+wa,JMDH001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/JMDH001,120.1915463,-23.34756534,3759,433.1,
+wa,KD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KD1,121.6820851,-31.20921648,2741,180.0,https://nvclstore.z8.web.core.windows.net/WA/KD1.zip
+wa,KDD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KDD002,118.7538327,-20.79264677,19,78.2,https://nvclstore.z8.web.core.windows.net/WA/KDD002.zip
+wa,Kennedy Range 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Kennedy Range 1,114.991757,-24.497258,173,1785.1,https://nvclstore.z8.web.core.windows.net/WA/Kennedy Range 1.zip
+wa,KPDDH 001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 001,121.4500359,-30.76783525,306,460.4,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 001.zip
+wa,KPDDH 002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 002,121.449747,-30.76384327,1007,388.7,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 002.zip
+wa,KPDDH 003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 003,121.4512715,-30.77674341,213,219.9,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 003.zip
+wa,KPDDH 004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 004,121.4448334,-30.77165014,432,559.0,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 004.zip
+wa,KPDDH 006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 006,121.4670714,-30.78918303,4999,340.2,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 006.zip
+wa,KPDDH 007,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH 007,121.4574918,-30.78177964,996,445.4,https://nvclstore.z8.web.core.windows.net/WA/KPDDH 007.zip
+wa,KPDDH008,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/KPDDH008,121.4691475,-30.7445306,4542,1168.99,https://nvclstore.z8.web.core.windows.net/WA/KPDDH008.zip
+wa,Kunzea 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Kunzea 1,124.99099,-19.53371,4339,441.5,https://nvclstore.z8.web.core.windows.net/WA/Kunzea 1.zip
+wa,Laminaria East 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Laminaria East 1,126.051054,-10.632132,110,64.2,https://nvclstore.z8.web.core.windows.net/WA/Laminaria East 1.zip
+wa,LD00001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LD00001,128.4811192,-22.68190038,177,331.1,
+wa,LD004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LD004,117.7460013,-23.38442334,47100,535.0,https://nvclstore.z8.web.core.windows.net/WA/LD004.zip
+wa,LDDH 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LDDH 1,122.3289468,-23.11142966,9346,586.2,https://nvclstore.z8.web.core.windows.net/WA/LDDH 1.zip
+wa,LEFD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LEFD001,121.7932812,-31.16110371,123,139.0,https://nvclstore.z8.web.core.windows.net/WA/LEFD001.zip
+wa,LEFD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LEFD003,121.792494,-31.15999652,183,136.05,https://nvclstore.z8.web.core.windows.net/WA/LEFD003.zip
+wa,LEFR132,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LEFR132,121.9931494,-31.13025392,249,95.9,https://nvclstore.z8.web.core.windows.net/WA/LEFR132.zip
+wa,LFDD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LFDD001,121.8136099,-31.18039016,514,227.0,https://nvclstore.z8.web.core.windows.net/WA/LFDD001.zip
+wa,LG15-226,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LG15-226,121.6783769,-31.17749014,1378,808.8,https://nvclstore.z8.web.core.windows.net/WA/LG15-226.zip
+wa,LGDD_052,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LGDD_052,119.987267,-30.025297,1143,219.3,https://nvclstore.z8.web.core.windows.net/WA/LGDD_052.zip
+wa,LGDD_054,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LGDD_054,119.986962,-30.02448,625,370.0,https://nvclstore.z8.web.core.windows.net/WA/LGDD_054.zip
+wa,LHD7,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LHD7,120.504238,-31.41249,327,50.9,
+wa,LNSD-063,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LNSD-063,121.6911743,-31.20834169,19922,888.3,https://nvclstore.z8.web.core.windows.net/WA/LNSD-063.zip
+wa,LONDDH1-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH1/94,121.079144,-31.111553,0,18.0,
+wa,LONDDH10-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH10/94,121.078302,-31.111468,0,29.0,
+wa,LONDDH3-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH3/94,121.078839,-31.111807,0,21.0,
+wa,LONDDH4-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH4/94,121.078724,-31.111902,0,21.7,
+wa,LONDDH7-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH7/94,121.079019,-31.111396,0,27.0,
+wa,LONDDH8-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH8/94,121.07876,-31.111333,0,21.7,
+wa,LONDDH9-94,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LONDDH9/94,121.07842,-31.11136,0,22.8,
+wa,Looma 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Looma 1,123.994283,-19.123573,5764,792.0,https://nvclstore.z8.web.core.windows.net/WA/Looma 1.zip
+wa,LPU976-20,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LPU976-20,120.7053026,-27.81810945,367,209.3,https://nvclstore.z8.web.core.windows.net/WA/LPU976-20.zip
+wa,LSHD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LSHD1,122.501893,-27.13098,206,121.0,https://nvclstore.z8.web.core.windows.net/WA/LSHD1.zip
+wa,LSHD4,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LSHD4,122.314774,-27.652378,35,114.47,https://nvclstore.z8.web.core.windows.net/WA/LSHD4.zip
+wa,LSHD6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LSHD6,122.31492,-27.653273,93,136.16,https://nvclstore.z8.web.core.windows.net/WA/LSHD6.zip
+wa,LSHD8,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/LSHD8,122.316696,-27.613913,393,141.0,https://nvclstore.z8.web.core.windows.net/WA/LSHD8.zip
+wa,MAD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MAD002,125.83145,-30.97575,393,202.5,https://nvclstore.z8.web.core.windows.net/WA/MAD002.zip
+wa,MAO4167,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MAO4167,121.510031,-30.77757,11,97.0,https://nvclstore.z8.web.core.windows.net/WA/MAO4167.zip
+wa,MBXDD-01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MBXDD-01,115.6913129,-23.54671889,79,107.0,https://nvclstore.z8.web.core.windows.net/WA/MBXDD-01.zip
+wa,MC02DH02,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MC02DH02,126.1067235,-18.34080872,196,135.3,https://nvclstore.z8.web.core.windows.net/WA/MC02DH02.zip
+wa,McLarty 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/McLarty 1,123.660832,-19.394495,205,2354.0,https://nvclstore.z8.web.core.windows.net/WA/McLarty 1.zip
+wa,MD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MD003,116.1140261,-22.48782221,5879,201.5,https://nvclstore.z8.web.core.windows.net/WA/MD003.zip
+wa,MFED001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED001,121.5512906,-26.79183265,4863,289.3,
+wa,MFED016,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED016,121.5495797,-26.787306,1066,104.3,https://nvclstore.z8.web.core.windows.net/WA/MFED016.zip
+wa,MFED018,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED018,121.5513174,-26.79003174,2665,60.45,https://nvclstore.z8.web.core.windows.net/WA/MFED018.zip
+wa,MFED029,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED029,121.5532105,-26.79229515,3981,60.8,https://nvclstore.z8.web.core.windows.net/WA/MFED029.zip
+wa,MFED043,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED043,121.5572825,-26.80924384,6856,72.3,https://nvclstore.z8.web.core.windows.net/WA/MFED043.zip
+wa,MFED055,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED055,121.5579588,-26.81032126,5009,58.0,https://nvclstore.z8.web.core.windows.net/WA/MFED055.zip
+wa,MFED060,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED060,121.5529175,-26.79999534,2317,19.2,https://nvclstore.z8.web.core.windows.net/WA/MFED060.zip
+wa,MFED064,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED064,121.5585895,-26.8065343,1479,57.6,https://nvclstore.z8.web.core.windows.net/WA/MFED064.zip
+wa,MFED069,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED069,121.5542568,-26.8014298,2574,98.1,https://nvclstore.z8.web.core.windows.net/WA/MFED069.zip
+wa,MFED071,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MFED071,121.5871686,-26.86449184,1904,92.1,https://nvclstore.z8.web.core.windows.net/WA/MFED071.zip
+wa,Mirbelia 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Mirbelia 1,125.361433,-19.650735,1770,197.97,https://nvclstore.z8.web.core.windows.net/WA/Mirbelia 1.zip
+wa,MJGD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MJGD002,117.9197111,-24.6928153,90,86.9,https://nvclstore.z8.web.core.windows.net/WA/MJGD002.zip
+wa,MJGD27,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MJGD27,117.8612947,-24.67826491,157,82.0,
+wa,MMD011,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MMD011,116.9660257,-29.16812188,412,93.1,https://nvclstore.z8.web.core.windows.net/WA/MMD011.zip
+wa,MMD012,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MMD012,116.9637527,-29.17207085,1680,87.1,https://nvclstore.z8.web.core.windows.net/WA/MMD012.zip
+wa,MMD013,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MMD013,116.9621842,-29.17233343,407,177.0,https://nvclstore.z8.web.core.windows.net/WA/MMD013.zip
+wa,MMD014,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MMD014,116.9601798,-29.17472052,170,171.0,https://nvclstore.z8.web.core.windows.net/WA/MMD014.zip
+wa,MND001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MND001,118.6729402,-28.74515148,426,251.1,
+wa,MND032,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MND032,118.6739022,-28.74361604,19,92.8,
+wa,MND036,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MND036,118.6736743,-28.74363374,373,164.4,
+wa,MND037,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MND037,118.6736106,-28.74345646,524,188.3,
+wa,MND040,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MND040,118.6738285,-28.74333831,171,237.7,
+wa,MNDD0001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MNDD0001,118.3580245,-28.39036386,1525,610.4,https://nvclstore.z8.web.core.windows.net/WA/MNDD0001.zip
+wa,MNDD0002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MNDD0002,118.385422,-28.33414882,471,388.3,
+wa,MNDD0003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MNDD0003,118.366333,-28.39917979,566,574.8,
+wa,MNDD0004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MNDD0004,118.4019069,-28.35595712,210,480.5,
+wa,MOD11,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD11,117.9024933,-23.43469034,3255,359.6,https://nvclstore.z8.web.core.windows.net/WA/MOD11.zip
+wa,MOD12,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD12,117.8998005,-23.43297316,184,133.3,https://nvclstore.z8.web.core.windows.net/WA/MOD12.zip
+wa,MOD13,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD13,117.9001942,-23.43308749,109,58.5,https://nvclstore.z8.web.core.windows.net/WA/MOD13.zip
+wa,MOD14,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD14,117.9025502,-23.43386194,208,97.7,https://nvclstore.z8.web.core.windows.net/WA/MOD14.zip
+wa,MOD3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD3,117.9013698,-23.43370689,544,288.6,https://nvclstore.z8.web.core.windows.net/WA/MOD3.zip
+wa,MOD4,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD4,117.8997835,-23.43261775,933,190.65,https://nvclstore.z8.web.core.windows.net/WA/MOD4.zip
+wa,MOD6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD6,117.9013642,-23.43318305,171,162.9,https://nvclstore.z8.web.core.windows.net/WA/MOD6.zip
+wa,MOD7,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD7,117.9005785,-23.43279651,24,86.0,https://nvclstore.z8.web.core.windows.net/WA/MOD7.zip
+wa,MOD8,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MOD8,117.9001937,-23.43263073,129,138.6,https://nvclstore.z8.web.core.windows.net/WA/MOD8.zip
+wa,MORCD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MORCD001,127.4162374,-31.91139711,2418,380.2,https://nvclstore.z8.web.core.windows.net/WA/MORCD001.zip
+wa,MORCD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MORCD002,127.4163215,-31.9132744,914,411.5,https://nvclstore.z8.web.core.windows.net/WA/MORCD002.zip
+wa,Mount Vernon 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Mount Vernon 1,118.191765,-24.304945,20,213.0,https://nvclstore.z8.web.core.windows.net/WA/Mount Vernon 1.zip
+wa,Mount Vernon 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Mount Vernon 2,118.191366,-24.306273,120,240.8,https://nvclstore.z8.web.core.windows.net/WA/Mount Vernon 2.zip
+wa,Mount Vernon 3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Mount Vernon 3,118.165544,-24.30834,53,277.4,https://nvclstore.z8.web.core.windows.net/WA/Mount Vernon 3.zip
+wa,MSD 4,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MSD 4,115.9534595,-24.23545368,101,131.7,https://nvclstore.z8.web.core.windows.net/WA/MSD 4.zip
+wa,MSD 5,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MSD 5,115.9530971,-24.23519832,103,165.5,https://nvclstore.z8.web.core.windows.net/WA/MSD 5.zip
+wa,MSD 6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MSD 6,115.9518054,-24.23417796,123,144.5,https://nvclstore.z8.web.core.windows.net/WA/MSD 6.zip
+wa,MSD 7,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MSD 7,115.9555064,-24.23686754,21,156.0,https://nvclstore.z8.web.core.windows.net/WA/MSD 7.zip
+wa,MSD 8,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MSD 8,115.956841,-24.23868289,68,168.0,https://nvclstore.z8.web.core.windows.net/WA/MSD 8.zip
+wa,Mt Ridley 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Mt Ridley 1,122.09333,-33.298332,56,380.7,https://nvclstore.z8.web.core.windows.net/WA/Mt Ridley 1.zip
+wa,MTD006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MTD006,123.1839874,-29.91090327,7373,334.6,
+wa,MTD009,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MTD009,123.2302998,-29.94118052,18,205.35,https://nvclstore.z8.web.core.windows.net/WA/MTD009.zip
+wa,MTO90,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MTO90,117.9021688,-23.43446731,1193,268.6,https://nvclstore.z8.web.core.windows.net/WA/MTO90.zip
+wa,MWD14001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/MWD14001,122.2289904,-21.83815874,24258,648.7,
+wa,NBDH010,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NBDH010,121.6543306,-30.78833206,685,921.1,
+wa,NBDH035,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NBDH035,121.6490453,-30.7877067,14496,537.6,
+wa,NC_0038_1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NC_0038_1,124.2147083,-17.82129349,530,218.0,https://nvclstore.z8.web.core.windows.net/WA/NC_0038_1.zip
+wa,NC_0040_1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NC_0040_1,124.1641222,-17.74485652,114,223.1,https://nvclstore.z8.web.core.windows.net/WA/NC_0040_1.zip
+wa,NC_0042_1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NC_0042_1,124.0962042,-17.66503953,322,125.0,https://nvclstore.z8.web.core.windows.net/WA/NC_0042_1.zip
+wa,NCB0003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NCB0003,121.6127462,-30.09599463,1974,827.5,https://nvclstore.z8.web.core.windows.net/WA/NCB0003.zip
+wa,NCB0003W1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NCB0003W1,121.6127462,-30.09599463,199,280.0,https://nvclstore.z8.web.core.windows.net/WA/NCB0003W1.zip
+wa,ND14DD-001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/ND14DD-001,120.0731049,-21.89952136,194,963.4,https://nvclstore.z8.web.core.windows.net/WA/ND14DD-001.zip
+wa,NDDH002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NDDH002,125.4103436,-30.1738108,304,225.5,https://nvclstore.z8.web.core.windows.net/WA/NDDH002.zip
+wa,NLD046,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NLD046,124.9030952,-28.78955036,194,170.4,https://nvclstore.z8.web.core.windows.net/WA/NLD046.zip
+wa,NLD069,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NLD069,124.9032101,-28.79023453,429,70.5,https://nvclstore.z8.web.core.windows.net/WA/NLD069.zip
+wa,NLD070,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NLD070,124.897184,-28.79911733,48,87.0,https://nvclstore.z8.web.core.windows.net/WA/NLD070.zip
+wa,NLD080,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NLD080,124.9081678,-28.78179971,181,47.9,https://nvclstore.z8.web.core.windows.net/WA/NLD080.zip
+wa,NLD210,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NLD210,124.9329886,-28.73808868,72,169.9,https://nvclstore.z8.web.core.windows.net/WA/NLD210.zip
+wa,NMD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NMD001,116.8071473,-22.94183542,1033,319.1,https://nvclstore.z8.web.core.windows.net/WA/NMD001.zip
+wa,NMOD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NMOD001,117.9046176,-23.43578767,473,301.0,https://nvclstore.z8.web.core.windows.net/WA/NMOD001.zip
+wa,NMOD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NMOD002,117.9046162,-23.43580251,988,267.0,https://nvclstore.z8.web.core.windows.net/WA/NMOD002.zip
+wa,NMOD004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NMOD004,117.9060461,-23.43797708,2410,398.8,https://nvclstore.z8.web.core.windows.net/WA/NMOD004.zip
+wa,NMOD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NMOD005,117.9074565,-23.43915449,3401,450.6,https://nvclstore.z8.web.core.windows.net/WA/NMOD005.zip
+wa,North Gorgon 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/North Gorgon 2,114.854914,-20.347092,101,3889.3,https://nvclstore.z8.web.core.windows.net/WA/North Gorgon 2.zip
+wa,North Rankin 5,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/North Rankin 5,116.159777,-19.570562,252,553.59,https://nvclstore.z8.web.core.windows.net/WA/North Rankin 5.zip
+wa,NUG0453,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NUG0453,121.5767,-21.6651,1225,257.7,https://nvclstore.z8.web.core.windows.net/WA/NUG0453.zip
+wa,NUG0467,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NUG0467,121.5691,-21.6553,1199,512.7,https://nvclstore.z8.web.core.windows.net/WA/NUG0467.zip
+wa,NVCD0102,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/NVCD0102,119.5816646,-31.50766456,50,202.0,https://nvclstore.z8.web.core.windows.net/WA/NVCD0102.zip
+wa,OB001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/OB001,123.7975472,-23.46502355,10755,359.95,https://nvclstore.z8.web.core.windows.net/WA/OB001.zip
+wa,OB002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/OB002,123.7966872,-23.4669157,16710,453.7,https://nvclstore.z8.web.core.windows.net/WA/OB002.zip
+wa,OBDDH2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/OBDDH2,121.046824,-30.436482,312,170.0,https://nvclstore.z8.web.core.windows.net/WA/OBDDH2.zip
+wa,OD15,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/OD15,121.510731,-25.188402,8080,87.2,https://nvclstore.z8.web.core.windows.net/WA/OD15.zip
+wa,Olympic 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Olympic 1,122.639833,-18.299333,38,325.0,https://nvclstore.z8.web.core.windows.net/WA/Olympic 1.zip
+wa,OND1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/OND1,115.002279,-22.198772,498,143.0,https://nvclstore.z8.web.core.windows.net/WA/OND1.zip
+wa,Orange Pool 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Orange Pool 1,124.210647,-17.303546,505,175.58,https://nvclstore.z8.web.core.windows.net/WA/Orange Pool 1.zip
+wa,PADD002A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PADD002A,121.5596176,-21.94992196,203,530.4,https://nvclstore.z8.web.core.windows.net/WA/PADD002A.zip
+wa,PC2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PC2,123.259076,-30.544111,2047,306.5,https://nvclstore.z8.web.core.windows.net/WA/PC2.zip
+wa,PDU2153,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PDU2153,116.2376528,-22.56896144,194,563.7,
+wa,PDU2217,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PDU2217,116.2375738,-22.5691644,57,56.1,
+wa,PDU3003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PDU3003,116.2376568,-22.56895748,48,752.1,https://nvclstore.z8.web.core.windows.net/WA/PDU3003.zip
+wa,Percival 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Percival 1,126.083325,-20.330733,4700,1537.6,https://nvclstore.z8.web.core.windows.net/WA/Percival 1.zip
+wa,Perindi 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Perindi 1,122.26444,-16.826995,507,7.6,https://nvclstore.z8.web.core.windows.net/WA/Perindi 1.zip
+wa,Perseus 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Perseus 2,116.073316,-19.538694,68,207.2,https://nvclstore.z8.web.core.windows.net/WA/Perseus 2.zip
+wa,PGDD15001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PGDD15001,121.2532655,-30.73624489,74,1407.0,https://nvclstore.z8.web.core.windows.net/WA/PGDD15001.zip
+wa,Pinjarra 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Pinjarra 1,115.771111,-32.675556,382,4270.7,https://nvclstore.z8.web.core.windows.net/WA/Pinjarra 1.zip
+wa,PK11DD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PK11DD001,119.9894384,-28.79524299,1966,193.8,
+wa,PLRCD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PLRCD003,122.8986835,-32.22923839,406,179.3,https://nvclstore.z8.web.core.windows.net/WA/PLRCD003.zip
+wa,PND001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PND001,121.9677436,-20.6253653,120,426.5,https://nvclstore.z8.web.core.windows.net/WA/PND001.zip
+wa,PND003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PND003,121.9723344,-20.62771465,445,200.6,https://nvclstore.z8.web.core.windows.net/WA/PND003.zip
+wa,PND005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PND005,121.9684067,-20.62236966,1440,415.0,
+wa,PND0110,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/PND0110,122.2509684,-28.55072173,3701,436.5,
+wa,RAVD0120,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RAVD0120,120.2839974,-33.60114219,521,525.4,https://nvclstore.z8.web.core.windows.net/WA/RAVD0120.zip
+wa,RCD358,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RCD358,118.6302481,-25.3680816,325,446.2,https://nvclstore.z8.web.core.windows.net/WA/RCD358.zip
+wa,RH140,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RH140,121.0368182,-20.1711652,1052,670.9,https://nvclstore.z8.web.core.windows.net/WA/RH140.zip
+wa,RHDH 2A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RHDH 2A,120.826559,-21.284793,6811,414.7,https://nvclstore.z8.web.core.windows.net/WA/RHDH 2A.zip
+wa,Rough Range 01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Rough Range 01,114.083474,-22.417574,273,3065.68,https://nvclstore.z8.web.core.windows.net/WA/Rough Range 01.zip
+wa,RRLCRDD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD002,122.1916172,-27.11523092,180,206.9,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD002.zip
+wa,RRLCRDD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD003,122.1905713,-27.17028394,12809,232.13,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD003.zip
+wa,RRLCRDD004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD004,122.1889436,-27.12223022,6610,223.34,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD004.zip
+wa,RRLCRDD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD005,122.2148575,-27.03772171,570,174.1,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD005.zip
+wa,RRLCRDD006,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD006,122.2306026,-26.97596593,488,229.2,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD006.zip
+wa,RRLCRDD007,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLCRDD007,122.2257379,-27.17816741,143,215.2,https://nvclstore.z8.web.core.windows.net/WA/RRLCRDD007.zip
+wa,RRLGDDD044,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLGDDD044,122.3608049,-27.90460877,234,175.3,https://nvclstore.z8.web.core.windows.net/WA/RRLGDDD044.zip
+wa,RRLGDDD063,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLGDDD063,122.362488,-27.9134744,1351,477.7,https://nvclstore.z8.web.core.windows.net/WA/RRLGDDD063.zip
+wa,RRLMWDD123,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLMWDD123,122.3523743,-27.62239437,5273,234.8,https://nvclstore.z8.web.core.windows.net/WA/RRLMWDD123.zip
+wa,RRLMWDD129,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/RRLMWDD129,122.3538869,-27.62238283,2828,312.57,https://nvclstore.z8.web.core.windows.net/WA/RRLMWDD129.zip
+wa,Sally May 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Sally May 2,124.4575,-19.801389,6804,494.0,https://nvclstore.z8.web.core.windows.net/WA/Sally May 2.zip
+wa,Santalum 1A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Santalum 1A,124.869629,-19.471699,6167,376.4,https://nvclstore.z8.web.core.windows.net/WA/Santalum 1A.zip
+wa,Satyr 5,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Satyr 5,114.319064,-20.432352,35,1473.8,https://nvclstore.z8.web.core.windows.net/WA/Satyr 5.zip
+wa,SBD 22,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SBD 22,117.542362,-20.814437,1901,68.8,
+wa,SCMD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SCMD1,121.267356,-30.162011,602,55.4,https://nvclstore.z8.web.core.windows.net/WA/SCMD1.zip
+wa,SD1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SD1,121.2282265,-19.81408036,462,271.5,
+wa,SDDH001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDDH001,126.0814771,-31.22758157,1035,315.4,https://nvclstore.z8.web.core.windows.net/WA/SDDH001.zip
+wa,SDDH002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDDH002,126.0710972,-31.21539731,804,255.2,https://nvclstore.z8.web.core.windows.net/WA/SDDH002.zip
+wa,SDH001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH001,127.9763329,-16.41291612,193,150.0,
+wa,SDH08-6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH08-6,127.9497573,-16.36152966,61,450.4,https://nvclstore.z8.web.core.windows.net/WA/SDH08-6.zip
+wa,SDH09-1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH09-1,127.9776774,-16.38919844,216,576.8,https://nvclstore.z8.web.core.windows.net/WA/SDH09-1.zip
+wa,SDH09-6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH09-6,127.9266562,-16.28545115,231,168.8,https://nvclstore.z8.web.core.windows.net/WA/SDH09-6.zip
+wa,SDH09-7,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH09-7,127.9788386,-16.41353708,320,640.7,https://nvclstore.z8.web.core.windows.net/WA/SDH09-7.zip
+wa,SDH09-8,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH09-8,127.9831163,-16.40130114,326,699.3,https://nvclstore.z8.web.core.windows.net/WA/SDH09-8.zip
+wa,SDH09-9,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH09-9,127.9795677,-16.4263577,130,265.4,https://nvclstore.z8.web.core.windows.net/WA/SDH09-9.zip
+wa,SDH11-15,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH11-15,127.9276211,-16.24557613,162,318.0,https://nvclstore.z8.web.core.windows.net/WA/SDH11-15.zip
+wa,SDH11-16,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH11-16,127.9644013,-16.1902597,313,290.3,https://nvclstore.z8.web.core.windows.net/WA/SDH11-16.zip
+wa,SDH11-17,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SDH11-17,127.980394,-16.4091801,199,292.6,https://nvclstore.z8.web.core.windows.net/WA/SDH11-17.zip
+wa,SE0018W1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SE0018W1,121.5362291,-30.81545019,159,895.8,https://nvclstore.z8.web.core.windows.net/WA/SE0018W1.zip
+wa,SE0019,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SE0019,121.5258896,-30.78872985,641,2171.9,https://nvclstore.z8.web.core.windows.net/WA/SE0019.zip
+wa,SE0019W1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SE0019W1,121.5258896,-30.78872985,178,838.8,https://nvclstore.z8.web.core.windows.net/WA/SE0019W1.zip
+wa,SED185,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SED185,119.811,-32.718,2438,268.0,https://nvclstore.z8.web.core.windows.net/WA/SED185.zip
+wa,Senagi 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Senagi 1,124.3725,-18.589767,25009,285.9,https://nvclstore.z8.web.core.windows.net/WA/Senagi 1.zip
+wa,Senecio 3_cuttings,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Senecio 3,115.080244,-29.25308,54,145.0,https://nvclstore.z8.web.core.windows.net/WA/Senecio 3.zip
+wa,SFRD0017,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SFRD0017,123.1997417,-31.81729602,1249,241.1,https://nvclstore.z8.web.core.windows.net/WA/SFRD0017.zip
+wa,SGD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SGD001,121.5183289,-33.25639267,134,156.0,
+wa,SGD002,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SGD002,121.5159899,-33.26140627,801,228.0,
+wa,SGD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SGD003,121.5378097,-33.24558425,110,176.0,
+wa,SGD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SGD005,121.5532708,-33.19116465,87,210.5,
+wa,SHD001A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SHD001A,118.5165553,-25.25277413,51972,1388.5,https://nvclstore.z8.web.core.windows.net/WA/SHD001A.zip
+wa,SMD157-A,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SMD157-A,128.0204582,-17.34155859,1309,1125.4,https://nvclstore.z8.web.core.windows.net/WA/SMD157-A.zip
+wa,Solanum 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Solanum 1,124.962962,-19.364987,19191,827.65,https://nvclstore.z8.web.core.windows.net/WA/Solanum 1.zip
+wa,SPD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SPD001,117.9358578,-23.44731269,19332,724.2,https://nvclstore.z8.web.core.windows.net/WA/SPD001.zip
+wa,SUD0821,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SUD0821,121.6456444,-30.3897191,47,53.0,https://nvclstore.z8.web.core.windows.net/WA/SUD0821.zip
+wa,Sue 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Sue 1,115.319296,-34.064639,497,2783.1,https://nvclstore.z8.web.core.windows.net/WA/Sue 1.zip
+wa,Sunrise 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Sunrise 2,128.104666,-9.498038,731,89.57,https://nvclstore.z8.web.core.windows.net/WA/Sunrise 2.zip
+wa,Sunset 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Sunset 1,127.977553,-9.642038,457,154.23,https://nvclstore.z8.web.core.windows.net/WA/Sunset 1.zip
+wa,SYMD0014,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/SYMD0014,118.7954076,-28.63440577,337,285.7,
+wa,T3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/T3,121.7755874,-20.23044223,148,184.4,https://nvclstore.z8.web.core.windows.net/WA/T3.zip
+wa,TBDD126,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TBDD126,122.0058545,-27.62388402,12424,230.86,
+wa,TCDP3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TCDP3,116.945544,-22.871048,41,113.5,
+wa,TDH 3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TDH 3,123.505411,-28.095235,45,24.4,https://nvclstore.z8.web.core.windows.net/WA/TDH 3.zip
+wa,TDH9,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TDH9,120.715484,-25.783302,13341,138.2,
+wa,Thangoo 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Thangoo 1,122.89229,-18.36675,25,5.8,https://nvclstore.z8.web.core.windows.net/WA/Thangoo 1.zip
+wa,Thebe 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Thebe 2,113.13127,-19.260051,1069,209.4,https://nvclstore.z8.web.core.windows.net/WA/Thebe 2.zip
+wa,Torosa 4,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Torosa 4,122.016064,-13.931453,229,152.6,https://nvclstore.z8.web.core.windows.net/WA/Torosa 4.zip
+wa,Torosa 6,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Torosa 6,121.900322,-14.041794,168,236.6,https://nvclstore.z8.web.core.windows.net/WA/Torosa 6.zip
+wa,Triodia 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Triodia 1,125.233796,-19.636653,40102,492.0,https://nvclstore.z8.web.core.windows.net/WA/Triodia 1.zip
+wa,TUR13DD001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TUR13DD001,127.4192241,-22.60116017,233,130.6,
+wa,TUR13DD003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TUR13DD003,127.4350314,-22.61911614,284,532.4,
+wa,TUR13DD004,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TUR13DD004,127.4281602,-22.57141686,185,467.9,
+wa,TUR13DD005,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/TUR13DD005,127.4440407,-22.6069209,97,168.0,
+wa,Turtle 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Turtle 1,128.946083,-14.475171,205,1542.5,https://nvclstore.z8.web.core.windows.net/WA/Turtle 1.zip
+wa,UEC05,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UEC05,117.6174061,-26.99033898,87,111.9,https://nvclstore.z8.web.core.windows.net/WA/UEC05.zip
+wa,UEC06,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UEC06,117.6208421,-26.99941537,42,55.1,https://nvclstore.z8.web.core.windows.net/WA/UEC06.zip
+wa,UEC07,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UEC07,117.5765398,-27.01003134,66,132.5,https://nvclstore.z8.web.core.windows.net/WA/UEC07.zip
+wa,UGD063,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UGD063,121.5742,-21.6623,131,108.08,https://nvclstore.z8.web.core.windows.net/WA/UGD063.zip
+wa,UGD288,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UGD288,121.5731,-21.6625,1074,145.1,https://nvclstore.z8.web.core.windows.net/WA/UGD288.zip
+wa,UGD297,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UGD297,121.5733,-21.6626,1748,186.5,https://nvclstore.z8.web.core.windows.net/WA/UGD297.zip
+wa,UGD378,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/UGD378,121.5756,-21.6617,142,172.6,https://nvclstore.z8.web.core.windows.net/WA/UGD378.zip
+wa,Ungani Far West 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Ungani Far West 1,123.134355,-17.999722,7254,75.19,https://nvclstore.z8.web.core.windows.net/WA/Ungani Far West 1.zip
+wa,W2DDH007,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/W2DDH007,119.2677064,-30.02020085,1105,226.0,
+wa,Wanaea 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Wanaea 1,116.435382,-19.591805,48,72.8,https://nvclstore.z8.web.core.windows.net/WA/Wanaea 1.zip
+wa,WBUG0124,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WBUG0124,118.6779179,-26.22732613,295,1001.6,https://nvclstore.z8.web.core.windows.net/WA/WBUG0124.zip
+wa,WDDH0093B,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WDDH0093B,121.4914306,-31.37116619,332,89.5,https://nvclstore.z8.web.core.windows.net/WA/WDDH0093B.zip
+wa,Wendy 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Wendy 1,115.016681,-28.299077,575,944.6,https://nvclstore.z8.web.core.windows.net/WA/Wendy 1.zip
+wa,West Tryal Rocks 3,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/West Tryal Rocks 3,115.050387,-20.153648,146,740.8,https://nvclstore.z8.web.core.windows.net/WA/West Tryal Rocks 3.zip
+wa,Whicher Range 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Whicher Range 1,115.374452,-33.835553,875,3647.6,https://nvclstore.z8.web.core.windows.net/WA/Whicher Range 1.zip
+wa,Wilson Cliffs 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Wilson Cliffs 1,126.783256,-22.276095,122,1084.4,https://nvclstore.z8.web.core.windows.net/WA/Wilson Cliffs 1.zip
+wa,WMD28,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WMD28,121.514669,-31.816385,56,56.75,https://nvclstore.z8.web.core.windows.net/WA/WMD28.zip
+wa,WPD02,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WPD02,115.9980287,-34.15796487,594,198.3,https://nvclstore.z8.web.core.windows.net/WA/WPD02.zip
+wa,WPD03,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WPD03,115.9903298,-34.13490541,2116,141.0,https://nvclstore.z8.web.core.windows.net/WA/WPD03.zip
+wa,WPD07,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WPD07,115.9995764,-34.15643087,364,187.7,
+wa,WPD13,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WPD13,116.0019723,-34.15470987,306,128.8,https://nvclstore.z8.web.core.windows.net/WA/WPD13.zip
+wa,WRD09370-001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WRD09370-001,116.3755176,-32.76146554,16,376.0,https://nvclstore.z8.web.core.windows.net/WA/WRD09370-001.zip
+wa,WRD11720-003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WRD11720-003,116.3538167,-32.74965567,37,542.5,https://nvclstore.z8.web.core.windows.net/WA/WRD11720-003.zip
+wa,WRD12725-001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WRD12725-001,116.3421542,-32.74616774,83,525.0,https://nvclstore.z8.web.core.windows.net/WA/WRD12725-001.zip
+wa,WRD12980-001,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WRD12980-001,116.3453256,-32.74066353,74,987.1,
+wa,WSXP1735,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/WSXP1735,120.5931916,-26.37237113,661,1442.3,https://nvclstore.z8.web.core.windows.net/WA/WSXP1735.zip
+wa,YAD0019,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/YAD0019,116.2735,-31.0933,436,1199.1,https://nvclstore.z8.web.core.windows.net/WA/YAD0019.zip
+wa,Yardarino 1_cuttings,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Yardarino 1,115.056358,-29.220789,74,106.6,https://nvclstore.z8.web.core.windows.net/WA/Yardarino 1.zip
+wa,Yaringa 1,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Yaringa 1,114.361111,-26.064852,712,2129.94,https://nvclstore.z8.web.core.windows.net/WA/Yaringa 1.zip
+wa,YD10-01,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/YD10-01,118.9199433,-28.57913319,858,169.9,https://nvclstore.z8.web.core.windows.net/WA/YD10-01.zip
+wa,YDDD00003,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/YDDD00003,118.4911,-32.9373,119,408.9,https://nvclstore.z8.web.core.windows.net/WA/YDDD00003.zip
+wa,Yodel 2,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/Yodel 2,115.740718,-19.722114,82,129.55,https://nvclstore.z8.web.core.windows.net/WA/Yodel 2.zip
+wa,YRC08-17D,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/YRC08-17D,118.8999343,-28.58026273,294,87.7,https://nvclstore.z8.web.core.windows.net/WA/YRC08-17D.zip
+wa,YRC10-13,http://geossdi.dmp.wa.gov.au/resource/feature/gswa/borehole/YRC10-13,118.9047533,-28.58089043,246,338.0,https://nvclstore.z8.web.core.windows.net/WA/YRC10-13.zip
+vic,LOCAL-RCD001,http://geology.data.vic.gov.au/resource/feature/GSV/borehole/951731,146.39924,-37.38040004,0,504.0,https://nvclstore.z8.web.core.windows.net/Vic/951731_RCD001.zip
+vic,LOCAL-STAVELY 6,http://geology.data.vic.gov.au/resource/feature/GSV/borehole/976433,142.273963,-37.05034304,0,117.7,https://nvclstore.z8.web.core.windows.net/Vic/976433_STAVELY06_53_to_118m_DD.zip
+vic,LOCAL-STAVELY 8,http://geology.data.vic.gov.au/resource/feature/GSV/borehole/976435,141.66997,-36.90981104,0,122.0,https://nvclstore.z8.web.core.windows.net/Vic/976435_STAVELY08_Sonic.zip
+vic,LOCAL-STAVELY 1,http://geology.data.vic.gov.au/resource/feature/GSV/borehole/976616,142.878372,-38.01753904,0,249.5,https://nvclstore.z8.web.core.windows.net/Vic/976616_STAVELY01_DD_merged.zip
+tas,DD83AR2,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/10286,145.446006,-41.18668913,12754,245.0,https://nvclstore.z8.web.core.windows.net/Tas/10286_DD83AR2.zip
+tas,ML048,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/10350,145.3207013,-41.69823623,161,339.5,https://nvclstore.z8.web.core.windows.net/Tas/10350_ML48_Mt_Lindsay.zip
+tas,BW004,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/38237,145.3730767,-41.65328957,75,304.7,https://nvclstore.z8.web.core.windows.net/Tas/38237_BW004_Big_Wilson.zip
+tas,GLD001,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/44253,145.5843394,-42.07179962,113,987.9,https://nvclstore.z8.web.core.windows.net/Tas/44253_GLD001_Mt_Lyell.zip
+tas,DD12CMT002,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/44273,145.592767,-42.03557541,1018,433.0,https://nvclstore.z8.web.core.windows.net/Tas/44273_DD12CMT002_Comstock.zip
+tas,BHD1,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/6086,145.6577379,-41.61249202,243,563.2,https://nvclstore.z8.web.core.windows.net/Tas/6086_BHD1_High_Point.zip
+tas,Forest-1,http://www.mrt.tas.gov.au/resource/feature/mrt/borehole/6200,145.2552389,-40.8151763,2066,1076.0,https://nvclstore.z8.web.core.windows.net/Tas/6200_Forest-1_Stanley.zip
+sa,OODNADATTA 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/10133,135.3493952,-27.4394723,875,405.99,https://nvclstore.z8.web.core.windows.net/SA/10133_Oodnadatta_1.zip
+sa,ANDDH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/103960,140.2119956,-32.7157825,251,142.98,https://nvclstore.z8.web.core.windows.net/SA/103960_ANDDH1_Anabama.zip
+sa,ANDDH 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/103961,140.2088776,-32.7183775,466,181.0,https://nvclstore.z8.web.core.windows.net/SA/103961_ANDDH2.zip
+sa,ANDDH 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/103962,140.2046916,-32.7211465,163,163.68,https://nvclstore.z8.web.core.windows.net/SA/103962_ANDDH3.zip
+sa,OBD 12,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1040,132.2554543,-29.6007791,75,474.4,https://nvclstore.z8.web.core.windows.net/SA/1040_OBD12.zip
+sa,AH DDH 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/104021,140.2004596,-32.7098795,33,210.75,https://nvclstore.z8.web.core.windows.net/SA/104021_ANDDH5.zip
+sa,OBD 10,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1041,132.2901983,-29.6349191,1077,246.5,https://nvclstore.z8.web.core.windows.net/SA/1041_OBD10.zip
+sa,BUMBARLOW 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/104376,140.086515,-30.4955175,104,720.33,https://nvclstore.z8.web.core.windows.net/SA/104376_Bumbarlow.zip
+sa,SKELETON 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/104382,140.014384,-29.9072825,200,591.75,https://nvclstore.z8.web.core.windows.net/SA/104382_Skeleton_2.zip
+sa,GIDGEALPA 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/104467,140.005107,-28.0386796,129,3227.22,https://nvclstore.z8.web.core.windows.net/SA/104467_Gidgealpa_7.zip
+sa,MURNAROO 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1046,132.0277373,-29.022161,1447,627.47,https://nvclstore.z8.web.core.windows.net/SA/1046_Murnaroo_1.zip
+sa,GILES 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1067,132.3867826,-28.4316822,526,1326.76,https://nvclstore.z8.web.core.windows.net/SA/1067_Giles_1.zip
+sa,LAIRU 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1071,132.1481673,-28.1631414,0,2039.55,https://nvclstore.z8.web.core.windows.net/SA/1071_Lairu_1.zip
+sa,MERAMANGYE 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1072,132.2757823,-28.367988,197,690.59,https://nvclstore.z8.web.core.windows.net/SA/1072_Meramangye1.zip
+sa,BD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/12112,135.8747229,-34.3914732,645,167.34,https://nvclstore.z8.web.core.windows.net/SA/12112_BD1.zip
+sa,KD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/12114,135.8400439,-34.4053872,856,57.91,https://nvclstore.z8.web.core.windows.net/SA/12114_KD1.zip
+sa,KD 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/12115,135.8576059,-34.3971512,935,111.94,https://nvclstore.z8.web.core.windows.net/SA/12115_KD3.zip
+sa,KD 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/12116,135.8414849,-34.4048572,52,119.48,https://nvclstore.z8.web.core.windows.net/SA/12116_KD4.zip
+sa,OAKVALE 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/128566,140.9128304,-32.9884296,86,175.68,https://nvclstore.z8.web.core.windows.net/SA/128566_Oakvale1.zip
+sa,WS 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/131074,131.5313745,-30.8185621,48,364.7,https://nvclstore.z8.web.core.windows.net/SA/131074_WS_1.zip
+sa,WS-WB,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/131076,131.5313745,-30.8185621,257,100.5,https://nvclstore.z8.web.core.windows.net/SA/131076_WS-WB.zip
+sa,NNL IL2 DDH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/131995,133.0799551,-29.6371921,63,191.79,https://nvclstore.z8.web.core.windows.net/SA/131995_NNL_IL2_DDH1.zip
+sa,CHL 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/132108,134.6606005,-31.0872871,13,27.5,https://nvclstore.z8.web.core.windows.net/SA/132108_CHL7.zip
+sa,DME IR 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/133941,135.0009463,-32.9363051,39,76.5,https://nvclstore.z8.web.core.windows.net/SA/133941_DME-IR2.zip
+sa,COM 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134134,134.3041397,-29.7665921,10,46.0,https://nvclstore.z8.web.core.windows.net/SA/134134_COM5.zip
+sa,DD88LR 19,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134163,135.0445105,-29.1623632,28,240.45,
+sa,DD88LR 20,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134164,135.0445105,-29.1637152,1068,292.0,
+sa,DD89LR 21,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134167,135.0547965,-29.1670962,450,275.5,
+sa,DGG 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134356,135.1019774,-31.0660371,233,75.0,https://nvclstore.z8.web.core.windows.net/SA/134356_Glenloth_ DGG3.zip
+sa,DGG 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134357,135.1145824,-31.0903901,156,101.4,https://nvclstore.z8.web.core.windows.net/SA/134357_Glenloth_DGG4.zip
+sa,PE 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134901,135.6712321,-32.6814792,1105,340.3,https://nvclstore.z8.web.core.windows.net/SA/134901_PE1.zip
+sa,PP 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/134902,135.6572571,-32.6666682,242,309.4,https://nvclstore.z8.web.core.windows.net/SA/134902_PP1.zip
+sa,SAMEDAN SOC 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/135473,137.3793306,-32.7474673,222,184.5,https://nvclstore.z8.web.core.windows.net/SA/135473_SOC7.zip
+sa,CD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/135623,129.3515161,-31.199074,334,361.5,https://nvclstore.z8.web.core.windows.net/SA/135623_CD1.zip
+sa,AFM MUL 9,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/135979,133.8410898,-30.2280661,9,15.0,https://nvclstore.z8.web.core.windows.net/SA/135979_AFM MUL9.zip
+sa,AFM MUL 15,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/135985,133.7249369,-30.1701381,26,140.0,https://nvclstore.z8.web.core.windows.net/SA/135985_AFM MUL15.zip
+sa,EDD 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136226,134.9941774,-30.8683231,20,19.5,https://nvclstore.z8.web.core.windows.net/SA/136226_ EDD4 Earea Dam.zip
+sa,LEVEL 2 8,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136303,134.5355105,-30.7083271,20,22.6,https://nvclstore.z8.web.core.windows.net/SA/136303_Tarcoola_L2-8.zip
+sa,LEVEL 2 12,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136307,134.5352385,-30.7083521,22,31.4,https://nvclstore.z8.web.core.windows.net/SA/136307_Tarcoola_L2-12.zip
+sa,LEVEL 3 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136330,134.5356855,-30.7087001,37,65.0,https://nvclstore.z8.web.core.windows.net/SA/136330_Tarcoola_L3-1.zip
+sa,LEVEL 3 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136341,134.5357305,-30.7086801,16,42.0,https://nvclstore.z8.web.core.windows.net/SA/136341_Tarcoola_L3-6.zip
+sa,LEVEL 3 8,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136343,134.5357275,-30.7086891,58,40.5,https://nvclstore.z8.web.core.windows.net/SA/136343_Tarcoola_L3-8.zip
+sa,LEVEL 3 11,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136350,134.5354355,-30.7088861,21,35.2,https://nvclstore.z8.web.core.windows.net/SA/136350_Tarcoola_L3-11.zip
+sa,TC 54,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136590,134.0341757,-30.6069881,203,50.1,https://nvclstore.z8.web.core.windows.net/SA/136590_TC54.zip
+sa,TC 55,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136591,134.0415757,-30.6074961,428,43.7,https://nvclstore.z8.web.core.windows.net/SA/136591_TC55.zip
+sa,TC 56,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136592,134.0436787,-30.6164441,312,45.0,https://nvclstore.z8.web.core.windows.net/SA/136592_TC56.zip
+sa,TC 59,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136595,134.0286537,-30.6063161,198,38.8,https://nvclstore.z8.web.core.windows.net/SA/136595_TC59.zip
+sa,PSH 1 / SAS 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136943,137.4963326,-32.4253363,43,471.35,https://nvclstore.z8.web.core.windows.net/SA/136943_PSHSAS1.zip
+sa,TR 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/136944,137.4800766,-32.2894893,450,401.25,https://nvclstore.z8.web.core.windows.net/SA/136944_TR4.zip
+sa,COL 37,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/137317,131.6724764,-31.4379841,216,194.0,https://nvclstore.z8.web.core.windows.net/SA/137317_COL_37.zip
+sa,SR16,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/137872,135.9313132,-29.7251842,145,241.0,https://nvclstore.z8.web.core.windows.net/SA/137872_SR16.zip
+sa,DD86EN 29,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/138126,135.2745724,-29.4430532,136,174.7,https://nvclstore.z8.web.core.windows.net/SA/138126_DD86EN_29.zip
+sa,DD86EN 31,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/138128,135.1358485,-29.4136632,50,179.8,https://nvclstore.z8.web.core.windows.net/SA/138128_DD86EN31.zip
+sa,DD86EN 33,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/138130,135.1454225,-29.2963202,96,118.1,https://nvclstore.z8.web.core.windows.net/SA/138130_DD86EN33.zip
+sa,A405/1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139047,136.4939487,-33.5740223,40,38.1,https://nvclstore.z8.web.core.windows.net/SA/139047 Cowell A405-1.zip
+sa,A405/2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139048,136.4950317,-33.5744593,1160,58.83,https://nvclstore.z8.web.core.windows.net/SA/139048 Cowell A405-2.zip
+sa,A405/3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139049,136.4974507,-33.5742033,847,25.3,https://nvclstore.z8.web.core.windows.net/SA/139049 Cowell A405-3.zip
+sa,A405/3A,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139050,136.4968807,-33.5724093,119,41.76,https://nvclstore.z8.web.core.windows.net/SA/139050 Cowell A405-3A.zip
+sa,A405/3B,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139051,136.4947087,-33.5713063,320,51.21,https://nvclstore.z8.web.core.windows.net/SA/139051 Cowell A405-3B.zip
+sa,L502 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139053,136.7264377,-33.6199183,249,51.21,https://nvclstore.z8.web.core.windows.net/SA/139053 Cowell A502-2.zip
+sa,L505 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139054,136.7873457,-33.5888893,124,47.85,https://nvclstore.z8.web.core.windows.net/SA/139054 Cowell L505-1.zip
+sa,LY-1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/13909,135.8898682,-30.8704282,220,675.0,https://nvclstore.z8.web.core.windows.net/SA/13909_LY1.zip
+sa,PB 26,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139476,137.8482713,-33.7866763,63,393.3,https://nvclstore.z8.web.core.windows.net/SA/139476_PB26.zip
+sa,PUB 38 / SAU 18,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139509,137.5094865,-32.7044593,161,91.0,https://nvclstore.z8.web.core.windows.net/SA/139509_SAU18.zip
+sa,PUB 29 / SAU 17,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139526,137.5308155,-32.7447603,63,179.0,https://nvclstore.z8.web.core.windows.net/SA/139526_ SAU17.zip
+sa,SLT 105,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139536,137.6713216,-31.5618343,411,566.0,https://nvclstore.z8.web.core.windows.net/SA/139536_SLT015.zip
+sa,PSC 4 SASC 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139594,137.4135806,-31.1733733,113,549.55,https://nvclstore.z8.web.core.windows.net/SA/139594_SASC2.zip
+sa,PSC 7 SASC 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139595,137.4479347,-31.0816313,394,696.4,https://nvclstore.z8.web.core.windows.net/SA/139595_SASC3.zip
+sa,CU 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139627,137.6089015,-32.8062763,276,305.2,https://nvclstore.z8.web.core.windows.net/SA/139627_CU1.zip
+sa,CU 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139634,137.6321044,-32.8689063,32,292.5,https://nvclstore.z8.web.core.windows.net/SA/139634_CU7.zip
+sa,MG 510,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139752,137.1509538,-31.4337383,44,36.1,https://nvclstore.z8.web.core.windows.net/SA/139752_MG510.zip
+sa,MG 511,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/139753,137.1504178,-31.4337463,18,36.4,https://nvclstore.z8.web.core.windows.net/SA/139753_MG511.zip
+sa,ESSO ROD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/140290,137.3583946,-32.7401973,929,144.2,https://nvclstore.z8.web.core.windows.net/SA/140290_ROD2.zip
+sa,SAMEDAN SOC 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/140474,137.3835506,-32.7384333,24,133.0,https://nvclstore.z8.web.core.windows.net/SA/140474_SOC1.zip
+sa,SAMEDAN SOC 9,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/140481,137.3787116,-32.7474453,258,204.5,https://nvclstore.z8.web.core.windows.net/SA/140481_SOC9.zip
+sa,DP-1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/14057,135.8426179,-30.0137054,236,616.6,https://nvclstore.z8.web.core.windows.net/SA/14057_DP1.zip
+sa,SR14/2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/140842,135.4400604,-28.5939122,44,145.0,https://nvclstore.z8.web.core.windows.net/SA/140842_SR14_2.zip
+sa,SR1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/14114,135.9052622,-29.7517872,240,171.0,https://nvclstore.z8.web.core.windows.net/SA/14114_SR01.zip
+sa,CD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141498,140.2454326,-32.5460845,307,118.7,https://nvclstore.z8.web.core.windows.net/SA/141498_CD2.zip
+sa,CD 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141499,140.2462076,-32.5551095,80,151.8,https://nvclstore.z8.web.core.windows.net/SA/141499_CD3.zip
+sa,CD 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141500,140.2391326,-32.5478515,4277,301.6,https://nvclstore.z8.web.core.windows.net/SA/141500_CD4.zip
+sa,CD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141501,140.2510947,-32.4154975,146,179.5,https://nvclstore.z8.web.core.windows.net/SA/141501_CD1.zip
+sa,DD86EN 24,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141747,135.3940214,-29.6676592,193,226.1,https://nvclstore.z8.web.core.windows.net/SA/141747_DD86EN24.zip
+sa,DD86EN 34,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141760,135.3920464,-29.6914892,116,203.3,https://nvclstore.z8.web.core.windows.net/SA/141760_DD86EN34.zip
+sa,DD92EN 64,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/141786,135.5233813,-29.7038972,86,188.0,https://nvclstore.z8.web.core.windows.net/SA/141786_DD92EN64.zip
+sa,CUR D 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/143970,137.7026722,-34.6273043,130,103.95,https://nvclstore.z8.web.core.windows.net/SA/143970_CURD2.zip
+sa,80KTD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/144189,139.532377,-32.0237395,492,66.6,https://nvclstore.z8.web.core.windows.net/SA/144189_80KTD2.zip
+sa,80KTD 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/144191,139.528806,-32.0250425,83,45.6,https://nvclstore.z8.web.core.windows.net/SA/144191_80KTD4.zip
+sa,DDH AN 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/144355,140.2073466,-32.7226525,858,796.0,https://nvclstore.z8.web.core.windows.net/SA/144355_ANDDH7.zip
+sa,DR 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/144369,140.4608627,-31.9030715,96,272.6,https://nvclstore.z8.web.core.windows.net/SA/144369_DR4.zip
+sa,2 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145365,134.5353255,-30.7102301,37,38.6,https://nvclstore.z8.web.core.windows.net/SA/145365_Tarcoola_L2-5.zip
+sa,2 9,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145367,134.5353255,-30.7102301,11,22.0,https://nvclstore.z8.web.core.windows.net/SA/145367_Tarcola_L2-9.zip
+sa,2 10,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145368,134.5353255,-30.7102301,22,25.0,https://nvclstore.z8.web.core.windows.net/SA/145368_Tarcoola_L2-10.zip
+sa,2 13,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145370,134.5353255,-30.7102301,79,55.5,https://nvclstore.z8.web.core.windows.net/SA/145370_Tarcoola L2-13.zip
+sa,2 18,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145372,134.5353255,-30.7102301,44,58.5,https://nvclstore.z8.web.core.windows.net/SA/145372_Tarcoola_L2-18.zip
+sa,2 19,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145373,134.5353255,-30.7102301,147,92.0,https://nvclstore.z8.web.core.windows.net/SA/145373_Tarcoola_L2-19.zip
+sa,LNM10 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/145894,140.1695949,-31.1168075,237,380.0,https://nvclstore.z8.web.core.windows.net/SA/145894_LNM10.zip
+sa,PBD 1 / SABD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/147219,137.7024355,-32.1519193,334,803.2,https://nvclstore.z8.web.core.windows.net/SA/147219_SABD1.zip
+sa,PTR 3 / SAT 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/148490,137.5534295,-32.7893853,163,242.0,https://nvclstore.z8.web.core.windows.net/SA/148490_PTR3_SAT1.zip
+sa,MJ 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/149014,138.1365836,-30.7096083,28,484.0,https://nvclstore.z8.web.core.windows.net/SA/149014_MJ1.zip
+sa,KD 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/149883,140.2751948,-31.8440485,207,247.0,https://nvclstore.z8.web.core.windows.net/SA/149883_Calico_KD6.zip
+sa,KD 9,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/149886,140.2212548,-31.9240215,122,453.1,https://nvclstore.z8.web.core.windows.net/SA/149886_Telechie_KD_9.zip
+sa,KD 19,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/149896,140.1817058,-31.9227795,73,319.0,https://nvclstore.z8.web.core.windows.net/SA/149896_Toraminga_KD19.zip
+sa,KD 20,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/149897,140.3923287,-31.8230995,99,437.5,https://nvclstore.z8.web.core.windows.net/SA/149897_KD20.zip
+sa,SPH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/150190,139.8541531,-29.9256805,305,627.0,https://nvclstore.z8.web.core.windows.net/SA/150190_SPH1.zip
+sa,DD92MW 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/153649,139.6816702,-29.9904055,23,200.0,https://nvclstore.z8.web.core.windows.net/SA/153649_DD92MW1.zip
+sa,BARTON 1 DDH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1548,132.7398021,-30.5870151,27,30.0,https://nvclstore.z8.web.core.windows.net/SA/1548_Barton1DDH1.zip
+sa,BARTON 1 DDH 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1550,132.7398021,-30.5870151,105,18.37,https://nvclstore.z8.web.core.windows.net/SA/1550_Barton1DDH3.zip
+sa,G1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1552,132.7398021,-30.5870151,76,16.0,https://nvclstore.z8.web.core.windows.net/SA/1552_G1.zip
+sa,G3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1554,132.7398021,-30.5870151,78,10.0,https://nvclstore.z8.web.core.windows.net/SA/1554_G3.zip
+sa,77MTDD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155559,139.0073828,-34.8886264,1625,190.8,https://nvclstore.z8.web.core.windows.net/SA/155559_77MTDD1.zip
+sa,77MTDD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155560,139.0073938,-34.8858314,1127,215.0,https://nvclstore.z8.web.core.windows.net/SA/155560_77MTDD2.zip
+sa,77MTDD 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155561,139.0082298,-34.8906954,2080,275.0,https://nvclstore.z8.web.core.windows.net/SA/155561_77MTDD3.zip
+sa,77MTDD 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155562,139.0084248,-34.8885534,1898,299.9,https://nvclstore.z8.web.core.windows.net/SA/155562_77MTDD4.zip
+sa,77MTDD 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155563,139.0082938,-34.8871534,307,349.0,https://nvclstore.z8.web.core.windows.net/SA/155563_77MTDD5.zip
+sa,77MTDD 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155564,139.0087218,-34.8898204,228,409.0,https://nvclstore.z8.web.core.windows.net/SA/155564_77MTDD6.zip
+sa,DD84KA 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155579,139.0101768,-34.8974624,127,381.7,https://nvclstore.z8.web.core.windows.net/SA/155579_DD84KA1.zip
+sa,DD84KA 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155580,139.0093888,-34.8938874,33,280.0,https://nvclstore.z8.web.core.windows.net/SA/155580_DD84KA2.zip
+sa,DD84KA 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155581,139.0084358,-34.8821974,242,399.4,https://nvclstore.z8.web.core.windows.net/SA/155581_DD84KA3.zip
+sa,G6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1557,132.7398021,-30.5870151,162,10.0,https://nvclstore.z8.web.core.windows.net/SA/1557_G6.zip
+sa,SE DD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/155724,134.2852247,-29.8839631,275,111.8,https://nvclstore.z8.web.core.windows.net/SA/155724_SEDD1.zip
+sa,WILKINSON 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1575,132.5519971,-29.8669761,10044,709.95,https://nvclstore.z8.web.core.windows.net/SA/1575_Wilkinson1.zip
+sa,OBD 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/1588,132.5062583,-29.2830791,15,269.6,https://nvclstore.z8.web.core.windows.net/SA/1588_OBD7.zip
+sa,BROAD VIEW 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/15954,136.3226028,-33.4149603,231,578.6,https://nvclstore.z8.web.core.windows.net/SA/15954_Broadview_1.zip
+sa,WP 122D,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/163428,137.9083216,-29.7301313,30,151.6,https://nvclstore.z8.web.core.windows.net/SA/163428_WP122D.zip
+sa,SAE 11,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165125,136.9378988,-31.0731703,420,1267.3,https://nvclstore.z8.web.core.windows.net/SA/165125_SAE11.zip
+sa,SAE 13,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165368,137.1700928,-31.1037473,489,477.6,https://nvclstore.z8.web.core.windows.net/SA/165368_EB_SAE13.zip
+sa,SAE 15,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165372,137.1438028,-31.1047293,175,400.81,https://nvclstore.z8.web.core.windows.net/SA/165372_SAE15.zip
+sa,SAE 18,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165487,137.1648478,-31.1174563,26,426.7,https://nvclstore.z8.web.core.windows.net/SA/165487_SAE_18.zip
+sa,SAE 19,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165488,137.1662838,-31.1160793,19,429.7,https://nvclstore.z8.web.core.windows.net/SA/165488_SAE_19.zip
+sa,SAE 20,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165489,137.1635158,-31.1188313,240,417.85,https://nvclstore.z8.web.core.windows.net/SA/165489_SAE_20.zip
+sa,AC94CW 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165490,136.144137,-31.1976913,1226,252.0,https://nvclstore.z8.web.core.windows.net/SA/165490_AC94CW6.zip
+sa,GUNSIGHT GD 10,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165527,139.6553232,-29.9992985,107,256.0,https://nvclstore.z8.web.core.windows.net/SA/165527_GD10.zip
+sa,SAE 21,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165529,137.1579488,-31.1090933,279,452.3,https://nvclstore.z8.web.core.windows.net/SA/165529_SAE21.zip
+sa,SAE 1X,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165604,137.1171578,-31.1228493,59,648.85,https://nvclstore.z8.web.core.windows.net/SA/165604_EB_SAE1X.zip
+sa,SAE 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165607,137.1409008,-31.1109113,455,1172.5,https://nvclstore.z8.web.core.windows.net/SA/165607_EB_SAE4.zip
+sa,SAE 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165608,137.1598378,-31.0999513,8,914.4,https://nvclstore.z8.web.core.windows.net/SA/165608 EB SAE5.zip
+sa,SAE 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165609,137.1493818,-31.1104093,403,1200.0,https://nvclstore.z8.web.core.windows.net/SA/165609_EB_SAE6.zip
+sa,SB 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165610,139.6699062,-29.9785125,23,83.6,https://nvclstore.z8.web.core.windows.net/SA/165610_SB1.zip
+sa,GUNSIGHT GD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/165644,139.6517182,-30.0005695,106,111.5,https://nvclstore.z8.web.core.windows.net/SA/165644_GD1.zip
+sa,SSR-1001,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/16638,136.349255,-30.8397843,274,499.5,https://nvclstore.z8.web.core.windows.net/SA/16638_SSR1001.zip
+sa,PRICES BORE 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/16697,136.1716871,-30.1987702,6606,499.5,https://nvclstore.z8.web.core.windows.net/SA/16697_Prices_Bore_1.zip
+sa,KTH 11,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/167585,140.1867352,-36.0754135,59,214.6,https://nvclstore.z8.web.core.windows.net/SA/167585_KTH11.zip
+sa,KTH 13,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/167587,140.3057312,-36.3714176,116,87.1,https://nvclstore.z8.web.core.windows.net/SA/167587_KTH13.zip
+sa,SR6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/16759,136.4091621,-29.7708413,1177,889.55,https://nvclstore.z8.web.core.windows.net/SA/16759_SR6.zip
+sa,SR13/2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/16794,136.1763022,-29.0068422,0,900.27,https://nvclstore.z8.web.core.windows.net/SA/16794_SR13_2.zip
+sa,LD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169145,140.534987,-36.7605816,483,185.0,https://nvclstore.z8.web.core.windows.net/SA/169145_LD2.zip
+sa,LD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169147,140.576258,-36.8101266,339,150.0,https://nvclstore.z8.web.core.windows.net/SA/169147_LD1.zip
+sa,LED002,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169555,134.7638755,-31.2259951,25,262.6,https://nvclstore.z8.web.core.windows.net/SA/169555_LED002.zip
+sa,LED003,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169556,134.7635565,-31.2277261,74,413.0,https://nvclstore.z8.web.core.windows.net/SA/169556_LED003.zip
+sa,LED010,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169870,134.7618815,-31.2258831,113,450.0,https://nvclstore.z8.web.core.windows.net/SA/169870_LED0010.zip
+sa,LRC32D,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/169871,134.7664475,-31.2261351,53,450.0,https://nvclstore.z8.web.core.windows.net/SA/169871_LRC32D.zip
+sa,BRD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/170020,137.3016708,-30.3980773,2240,890.6,https://nvclstore.z8.web.core.windows.net/SA/170020_BRD1.zip
+sa,MM 11,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/171734,140.9253915,-32.2611896,273,423.98,https://nvclstore.z8.web.core.windows.net/SA/171734_MM11.zip
+sa,MM 14,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/171750,140.9222045,-32.2508766,48,1619.1,https://nvclstore.z8.web.core.windows.net/SA/171750_MM14.zip
+sa,WILKLOW GRAPHITE 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/17240,136.7760227,-33.5679953,443,66.59,https://nvclstore.z8.web.core.windows.net/SA/17240_WilklowGraphite2.zip
+sa,SHR 39,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/173783,139.7355945,-35.3070425,19,126.9,https://nvclstore.z8.web.core.windows.net/SA/173783_SHR039.zip
+sa,CALCOOKARA MINE DDH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/17456,136.7245807,-33.6192143,104,58.22,https://nvclstore.z8.web.core.windows.net/SA/17456_Calcookara_Mine_DDH1.zip
+sa,98WDDH 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/175315,136.4810998,-32.7769123,140,287.8,https://nvclstore.z8.web.core.windows.net/SA/175315_98WDDH1.zip
+sa,98WDDH 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/175316,136.4815868,-32.7786203,221,243.5,https://nvclstore.z8.web.core.windows.net/SA/175316_98WDDH2.zip
+sa,98WDDH 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/175318,136.4813618,-32.7759803,421,172.0,https://nvclstore.z8.web.core.windows.net/SA/175318_98WDDH4.zip
+sa,TER 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/180584,137.4953803,-34.7844003,285,199.0,https://nvclstore.z8.web.core.windows.net/SA/180584_TER_1.zip
+sa,VANGUARD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/18092,136.9301398,-31.4397343,1405,1096.0,https://nvclstore.z8.web.core.windows.net/SA/18092_Vanguard 1.zip
+sa,BD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/18189,136.843693,-30.1486023,7770,941.0,https://nvclstore.z8.web.core.windows.net/SA/18189_BD1.zip
+sa,BD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/18190,136.815018,-30.1223973,1391,829.4,https://nvclstore.z8.web.core.windows.net/SA/18190_BD2.zip
+sa,PIGLET 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/182173,132.5306821,-29.8427921,2004,688.0,https://nvclstore.z8.web.core.windows.net/SA/182173_Piglet_1.zip
+sa,CD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/183619,129.478461,-31.167437,42,194.8,https://nvclstore.z8.web.core.windows.net/SA/183619_CD_2.zip
+sa,CD 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/183620,129.2794191,-30.971374,75,206.15,https://nvclstore.z8.web.core.windows.net/SA/183620_CD_3.zip
+sa,BLACK HILL 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/184147,139.4525436,-34.6578754,188,749.0,https://nvclstore.z8.web.core.windows.net/SA/184147_BlackHill1_Core.zip
+sa,GY 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/184730,137.1732637,-31.4437383,114,37.7,https://nvclstore.z8.web.core.windows.net/SA/184730_GY1.zip
+sa,GY 13,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/184731,137.1817187,-31.4453993,849,53.0,https://nvclstore.z8.web.core.windows.net/SA/184731_GY13.zip
+sa,KOKDD 13,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185410,135.1234164,-31.0266041,215,69.9,https://nvclstore.z8.web.core.windows.net/SA/185410_KOKDD13.zip
+sa,KOKDD 15,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185412,135.1237794,-31.0232471,16,37.6,https://nvclstore.z8.web.core.windows.net/SA/185412_ KOKDD15.zip
+sa,KOKDD 20,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185417,135.1230214,-31.0287431,55,45.8,https://nvclstore.z8.web.core.windows.net/SA/185417_KOKDD20.zip
+sa,KOKDD 24,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185421,135.1245964,-31.0314671,24,66.6,https://nvclstore.z8.web.core.windows.net/SA/185421_KOKDD24.zip
+sa,TARDD 85,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185511,134.6365115,-30.8027271,243,155.3,https://nvclstore.z8.web.core.windows.net/SA/185511 TARDD85.zip
+sa,TARDD 86,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185512,134.6364415,-30.8019501,655,150.4,https://nvclstore.z8.web.core.windows.net/SA/185512 TARDD86.zip
+sa,LD95 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185524,140.5748638,-31.2539005,41,146.7,https://nvclstore.z8.web.core.windows.net/SA/185524_LD95-1.zip
+sa,LD95 1A,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185525,140.5736037,-31.2538965,102,202.1,https://nvclstore.z8.web.core.windows.net/SA/185525_LD95-1A.zip
+sa,LD95 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185526,140.5783447,-31.2268435,404,229.2,https://nvclstore.z8.web.core.windows.net/SA/185526_LD95-2.zip
+sa,LD95 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185527,140.5753648,-31.2123975,280,399.8,https://nvclstore.z8.web.core.windows.net/SA/185527_LD95-3.zip
+sa,CD93 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185583,135.4400264,-29.4289352,135,121.0,https://nvclstore.z8.web.core.windows.net/SA/185583_CD93_3.zip
+sa,CD93 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185584,135.4465234,-29.4359792,279,186.0,https://nvclstore.z8.web.core.windows.net/SA/185584_CD94_4.zip
+sa,CD93 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185585,135.4436064,-29.4384982,3673,131.0,https://nvclstore.z8.web.core.windows.net/SA/185585_CD93_5.zip
+sa,CD93 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185586,135.4632354,-29.4469332,3969,188.0,https://nvclstore.z8.web.core.windows.net/SA/185586_CD93_6.zip
+sa,CD93 8,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185588,135.1248895,-29.3005832,77,284.6,https://nvclstore.z8.web.core.windows.net/SA/185588_CD93_8.zip
+sa,ED97 1A,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/185601,140.5942267,-31.3847555,137,326.8,https://nvclstore.z8.web.core.windows.net/SA/185601_ED97-1A.zip
+sa,TARDD 90,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186163,134.6722355,-30.8135241,458,187.7,https://nvclstore.z8.web.core.windows.net/SA/186163_TARDD90.zip
+sa,TARDD 91,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186164,134.6722715,-30.8121791,172,162.8,https://nvclstore.z8.web.core.windows.net/SA/186164_TARDD91.zip
+sa,TARDD 92,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186165,134.6721805,-30.8143901,133,200.5,https://nvclstore.z8.web.core.windows.net/SA/186165_TARDD92.zip
+sa,TARDD 93,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186166,134.6722275,-30.8129011,331,128.5,https://nvclstore.z8.web.core.windows.net/SA/186166_TAR_DD93.zip
+sa,PADD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186196,139.3438077,-34.6950464,14,162.6,https://nvclstore.z8.web.core.windows.net/SA/186196_PADD1.zip
+sa,PADD 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186197,139.3868156,-34.7166324,228,101.5,https://nvclstore.z8.web.core.windows.net/SA/186197_PADD2.zip
+sa,PADD 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186198,139.4448936,-34.6999404,862,119.4,https://nvclstore.z8.web.core.windows.net/SA/186198_PADD3.zip
+sa,PADD 5,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186200,139.4606536,-34.8214144,108,181.1,https://nvclstore.z8.web.core.windows.net/SA/186200_PADD5.zip
+sa,PADD 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186201,139.2898178,-34.3827294,309,165.35,https://nvclstore.z8.web.core.windows.net/SA/186201_PADD6.zip
+sa,PADD 7,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186202,139.2959568,-34.3481004,28,213.6,https://nvclstore.z8.web.core.windows.net/SA/186202_PADD7.zip
+sa,PADD 8,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186203,139.3966468,-34.3242124,22,201.5,https://nvclstore.z8.web.core.windows.net/SA/186203_PADD8.zip
+sa,PADD 9,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186204,139.3052168,-34.3471374,40,188.0,https://nvclstore.z8.web.core.windows.net/SA/186204_PADD9.zip
+sa,PADD 10,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186205,139.3765628,-34.3117744,400,201.4,https://nvclstore.z8.web.core.windows.net/SA/186205_PADD10.zip
+sa,BGDDH 4,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186232,134.4639436,-30.7677941,596,200.0,https://nvclstore.z8.web.core.windows.net/SA/186232_BGDDH4.zip
+sa,LD98 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/186974,140.6095557,-31.2458905,65,391.25,https://nvclstore.z8.web.core.windows.net/SA/186974_LD98-1.zip
+sa,KGD01 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/187410,137.2017225,-34.1270453,35,165.7,https://nvclstore.z8.web.core.windows.net/SA/187410_KGD01C.zip
+sa,KEN 2,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/191630,134.9737274,-30.9225321,42,100.0,https://nvclstore.z8.web.core.windows.net/SA/191630_KEN2.zip
+sa,KEN 3,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/191631,134.9683584,-30.9230811,32,102.0,https://nvclstore.z8.web.core.windows.net/SA/191631_KEN3.zip
+sa,MALD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192428,137.7462893,-33.8767913,281,362.17,https://nvclstore.z8.web.core.windows.net/SA/192428_MALD1.zip
+sa,MENNINNIE DAM MD 15,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192450,136.4167819,-32.6437953,3467,732.0,https://nvclstore.z8.web.core.windows.net/SA/192450_MD15.zip
+sa,MENNINNIE DAM MD 16,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192451,136.4214378,-32.6437343,963,430.8,https://nvclstore.z8.web.core.windows.net/SA/192451_MD16.zip
+sa,MENNINNIE DAM MD 18,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192453,136.4140149,-32.6529453,170,658.2,https://nvclstore.z8.web.core.windows.net/SA/192453_MD18.zip
+sa,MENNINNIE DAM MD 19,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192454,136.4188649,-32.6528823,2448,526.5,https://nvclstore.z8.web.core.windows.net/SA/192454_MD19.zip
+sa,MENNINNIE DAM MD 24,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192458,136.4157659,-32.6476853,3994,600.0,https://nvclstore.z8.web.core.windows.net/SA/192458_MD24.zip
+sa,MENNINNIE DAM MD 25,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192459,136.4151199,-32.6567483,5213,658.4,https://nvclstore.z8.web.core.windows.net/SA/192459_MD_25.zip
+sa,MENNINNIE DAM MD 27,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192461,136.4146529,-32.6446943,2074,725.0,https://nvclstore.z8.web.core.windows.net/SA/192461_MD27.zip
+sa,MENNINNIE DAM MD 32,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/192464,136.4171599,-32.6616863,6418,633.5,https://nvclstore.z8.web.core.windows.net/SA/192464_MD32.zip
+sa,PDBN-134,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/193082,135.4517291,-32.8427571,21,246.0,https://nvclstore.z8.web.core.windows.net/SA/193082_PDBN-134.zip
+sa,MENNINNIE DAM MD 30,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/193505,136.4172689,-32.6584563,141,551.0,https://nvclstore.z8.web.core.windows.net/SA/193505_MD30.zip
+sa,MAWD 1,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/193683,137.6743903,-33.8939693,44,263.9,https://nvclstore.z8.web.core.windows.net/SA/193683_MAWD1.zip
+sa,PDBN-135,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/194931,135.4527291,-32.8421741,13,177.2,https://nvclstore.z8.web.core.windows.net/SA/194931_PDBN-135.zip
+sa,HKDD 6,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/195689,135.1172015,-29.9996532,241,189.3,https://nvclstore.z8.web.core.windows.net/SA/195689_HKDD06.zip
+sa,HKDD 14,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/195697,135.1192695,-30.0000962,83,152.7,https://nvclstore.z8.web.core.windows.net/SA/195697_HKDD14.zip
+sa,HKDD 17,https://sarigdata.pir.sa.gov.au/nvcl/resource/feature/PIRSA/borehole/195700,135.1223695,-29.9978462,121,171.5,https://nvclstore.z8.web.core.windows.net/SA/195700_HKDD17.zip
+qld,MIRRICA 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1006,138.293906,-23.65382802,49,833.9,
+qld,MUTTABURRA 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1045,144.501152,-22.73178702,82,1295.8,
+qld,MOUNT COOLON 5,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1476,147.151107,-21.34844501,7,132.9,
+qld,MACHATTIE 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1500,140.309544,-24.81515002,7,1175.3,
+qld,BRADLEY 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1984,138.086197,-22.16077201,3565,400.4,
+qld,DOBBYN 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/1989,140.381447,-19.29542501,9,848.2,
+qld,TODD 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/3091,138.460983,-22.85627802,2924,881.0,
+qld,MOUNT WHELAN 1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/442,138.877869,-23.30849802,45,603.0,
+qld,MOUNT CHALMERS MINE MC13,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/59710,150.653276,-23.29780102,86,,
+qld,MOUNT CHALMERS MINE FRD020,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/59713,150.655037,-23.29261802,7,,
+qld,GYMPIE GOLDFIELD G162,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/63144,152.678247,-26.22105802,7,,
+qld,MULLIGAN MULDDH001,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/63518,138.554858,-24.90158902,6,,
+qld,GOLF COURSE SXFED1,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/68545,139.474932,-20.75466901,22,,
+qld,STARRA 276 STQ1097,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/71573,140.477713,-21.66540901,9,,
+qld,TREKELANO TKD0174,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/72558,139.899953,-21.48522901,22,,
+qld,GEORGETOWN NS6,https://geology.information.qld.gov.au/resource/feature/gsq/borehole/957,143.048358,-18.65958401,10,100.0,
+nt,GODD032,http://geology.data.nt.gov.au/resource/feature/ntgs/borehole/8446870_GODD032,134.0674586,-19.43066729,78,1279.0,https://nvclstore.z8.web.core.windows.net/NT/8446870_GODD032.zip
+nsw,Cone - Tindara: TD9203,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_001205,141.0873941,-30.66582903,0,378.1,https://nvclstore.z8.web.core.windows.net/NSW/TD9204.zip
+nsw,Polygonum - Woolshed: RD84P04,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_001574,141.0465441,-31.6930953,787,240.0,https://nvclstore.z8.web.core.windows.net/NSW/RD84P04.zip
+nsw,Thackaringa: DD95TH02,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_001619,141.1390027,-32.05356382,200,200.0,https://nvclstore.z8.web.core.windows.net/NSW/DD95TH02.zip
+nsw,Eaglehawk: DD95EHK1,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_001764,141.6037591,-32.42856886,41,129.5,https://nvclstore.z8.web.core.windows.net/NSW/DD95EHK1.zip
+nsw,Copper Blow: DDHCB6,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_002001,141.5052024,-32.12979509,185,303.0,https://nvclstore.z8.web.core.windows.net/NSW/DDHCB6.zip
+nsw,Rupee/Thorndale - Anomaly A: BH81-5,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_002041,141.4892775,-32.0264427,50,361.3,https://nvclstore.z8.web.core.windows.net/NSW/BH81-5.zip
+nsw,Blind Calf - Melrose: PDH2/2A,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_002832,146.9424896,-32.59578421,22,122.2,https://nvclstore.z8.web.core.windows.net/NSW/PDH2_2A.zip
+nsw,Blind Calf - Melrose: PDH3/3A,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_002833,146.9444705,-32.59771558,58,116.4,https://nvclstore.z8.web.core.windows.net/NSW/PDH3_3A.zip
+nsw,Peak Hill: PHD2,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003427,148.1967487,-32.72193675,9699,282.0,https://nvclstore.z8.web.core.windows.net/NSW/PHD2.zip
+nsw,Peak Hill: PHD3,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003428,148.1975866,-32.72075616,26761,518.2,https://nvclstore.z8.web.core.windows.net/NSW/PHD3.zip
+nsw,Peak Hill: PHD4,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003429,148.1982683,-32.72386153,6733,391.4,https://nvclstore.z8.web.core.windows.net/NSW/PHD4.zip
+nsw,Peak Hill: PHD4A,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003430,148.1982683,-32.72386153,279,226.3,https://nvclstore.z8.web.core.windows.net/NSW/PHD4A.zip
+nsw,Kelvin Grove Intrusion: FKD3,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003446,147.467936,-32.72248751,1164,248.8,https://nvclstore.z8.web.core.windows.net/NSW/FKD-3.zip
+nsw,Kelvin Grove Intrusion: FKD4,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_003447,147.4673435,-32.72552065,1512,305.0,https://nvclstore.z8.web.core.windows.net/NSW/FKD4.zip
+nsw,Browns Reef - Lake Cargelligo: BR6,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_004942,146.3228404,-33.31897412,107,262.0,https://nvclstore.z8.web.core.windows.net/NSW/BR6.zip
+nsw,Tara Mine: 77-TD1,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_005386,145.9332745,-32.02205133,572,242.3,https://nvclstore.z8.web.core.windows.net/NSW/77-TD1.zip
+nsw,Peak Hill: DDHOPH2,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_005553,148.1999679,-32.72647009,540,223.0,https://nvclstore.z8.web.core.windows.net/NSW/DDHOPH2.zip
+nsw,Barney Anomaly Mundoe - Mount Hope: MPH1,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_006831,146.1744748,-32.84629574,177,81.0,https://nvclstore.z8.web.core.windows.net/NSW/MPH1.zip
+nsw,Yiddah - Barmedman: YHD08,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_008657,147.3328277,-34.04928113,267,396.6,https://nvclstore.z8.web.core.windows.net/NSW/YHD08.zip
+nsw,Huntley: HDD001,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_013032,149.1528825,-33.37035839,127,196.1,https://nvclstore.z8.web.core.windows.net/NSW/HDD001.zip
+nsw,Mooney Mooney: DDHMM-2,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_014170,148.1551193,-34.7940622,760,150.2,https://nvclstore.z8.web.core.windows.net/NSW/DDHMM-2.zip
+nsw,Carpina Ridge: DD91CRR2,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_016365,146.6526678,-32.34338603,84,300.5,https://nvclstore.z8.web.core.windows.net/NSW/DD91CRR2.zip
+nsw,Springdale - Merri Hill: 95SMD-67,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_018826,147.6962649,-34.56953789,2309,150.0,https://nvclstore.z8.web.core.windows.net/NSW/95SMD-67.zip
+nsw,Long Tunnel: DD90LT4,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_025061,148.0143882,-35.03524105,139,96.0,https://nvclstore.z8.web.core.windows.net/NSW/DD90LT4.zip
+nsw,Galwadgere - Wellington: DDH-G26,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_025100,149.0516564,-32.6638793,215,142.0,https://nvclstore.z8.web.core.windows.net/NSW/DDH-G26.zip
+nsw,Galwadgere - Wellington: DDH-G30,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_025104,149.052628,-32.66300666,125,252.9,https://nvclstore.z8.web.core.windows.net/NSW/DDH-G30.zip
+nsw,Conrad Mine: HOWELL4,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_025245,151.0277131,-29.95889556,10,59.6,https://nvclstore.z8.web.core.windows.net/NSW/HOWELL4.zip
+nsw,Canbelego Copper Mine: CC-5,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_039545,146.3058704,-31.62657118,233,350.2,https://nvclstore.z8.web.core.windows.net/NSW/CC-5.zip
+nsw,Overflow - Bobadah: BOBRCPC1,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_040141,146.695243,-32.30401892,101,207.0,https://nvclstore.z8.web.core.windows.net/NSW/BOBRCPC1.zip
+nsw,Mount Hope - Great Central South: GCS-2,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_040497,145.8551927,-32.90128923,308,241.4,https://nvclstore.z8.web.core.windows.net/NSW/GCS-2.zip
+nsw,Koonenberry - Mount Arrowsmith East: DH 119113,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_043906,141.6679834,-30.16396832,105,65.0,https://nvclstore.z8.web.core.windows.net/NSW/DH 119113.zip
+nsw,Condobolin: COD001,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_068202,147.1228306,-33.04886638,123,247.4,https://nvclstore.z8.web.core.windows.net/NSW/COD001.zip
+nsw,Federal: FED002,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_072356,148.8347765,-34.18909254,70,96.0,https://nvclstore.z8.web.core.windows.net/NSW/FED002_RC.zip
+nsw,Tomingley: PE799D,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_098639,148.2235478,-32.58648452,1391,138.7,https://nvclstore.z8.web.core.windows.net/NSW/PE799.zip
+nsw,Avoca Tank - Girilambone: TATD030,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_108570,146.8401913,-31.19627483,1815,239.5,https://nvclstore.z8.web.core.windows.net/NSW/TATD030.zip
+nsw,Tritton Group ELs: TTDD028,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_110403,146.7318542,-31.39660113,695,1221.6,https://nvclstore.z8.web.core.windows.net/NSW/TTDD028.zip
+nsw,Dandaloo: Dan001,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_152611,147.5530306,-32.1567192,42,228.8,https://nvclstore.z8.web.core.windows.net/NSW/Dan001.zip
+nsw,Moorilda: RMPDD066,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_153463,149.3261319,-33.48941543,788,654.7,https://nvclstore.z8.web.core.windows.net/NSW/RMPDD066.zip
+nsw,Cundumbul-Bakers Swamp: CND001B,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_169877,148.9417553,-32.82764547,44,424.7999878,https://nvclstore.z8.web.core.windows.net/NSW/CND001B.zip
+nsw,Collerina: CODD002,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_230563,147.0594727,-32.04116424,348,198.5,https://nvclstore.z8.web.core.windows.net/NSW/CODD002.zip
+nsw,McPhillamys: LMPDD127,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_232635,149.3252927,-33.48584831,622,544.3,https://nvclstore.z8.web.core.windows.net/NSW/RRLMPDD127.zip
+nsw,McPhillamys: LMPDD139,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_232647,149.3237953,-33.48877448,2187,446.8999939,https://nvclstore.z8.web.core.windows.net/NSW/RRLMPDD139.zip
+nsw,Thackaringa Project: 17THD06,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_234398,141.2327963,-32.07971392,612,165.5,https://nvclstore.z8.web.core.windows.net/NSW/17THD06.zip
+nsw,Moorilda - EL5760: LMPDD214,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_242733,149.3270423,-33.48536631,1206,734.5999756,https://nvclstore.z8.web.core.windows.net/NSW/LMPDD214.zip
+nsw,Bodangora: KSDD006,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_336108,149.0261213,-32.41981061,523,1092.8,https://nvclstore.z8.web.core.windows.net/NSW/KSDD006.zip
+nsw,E48 - Northparkes: E48D58,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/MIN_363237,148.0519491,-32.92503358,87,771.8,https://nvclstore.z8.web.core.windows.net/NSW/E48D58.zip
+nsw,Hawkesbury Eveleigh: Hawkesbury Eveleigh 1,https://gs.geoscience.nsw.gov.au/resource/feature/gsnsw/borehole/PET_000389,151.193868,-33.89588,34,1317.3,https://nvclstore.z8.web.core.windows.net/NSW/PHKE1.zip
