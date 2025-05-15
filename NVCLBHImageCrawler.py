@@ -81,11 +81,12 @@ class NVCLBHImageCrawler:
 
         step = len(sections)//num  + 1
         count = 0
-        print('DownloadingStart:Section',end='')
+        self.dual_print(f'DownloadingStart:Section:total:{len(sections)}',end='')
         for cc, section in enumerate(sections):
             if cc%step!=0:
                 continue
-            print(f'-{cc}',end='')
+
+            self.dual_print(f'-{cc}',end='')
             if 'STARTDEPTH' in section:
                 startDepth = int(section['STARTDEPTH'])
                 endDepth = int(section['ENDDEPTH'])
@@ -94,6 +95,8 @@ class NVCLBHImageCrawler:
                 startDepth = int(section['StartDepth'])
                 endDepth = int(section['EndDepth'])
                 scal1 = int(section['Scal1'])
+            # if scal1 < 72:
+            #     continue
             fileName = f'{prov}-{identifier}-SEC{scal1}-S{startDepth}-E{endDepth}.jpg'
             if not simulation:
                 section_list = []
@@ -102,14 +105,14 @@ class NVCLBHImageCrawler:
                         with requests.get(f'{url}{sampleCount}') as r:
                             section_list.append(plt.imread(BytesIO(r.content),'JPEG'))
                     except Exception as ex:
-                        print(f'download: Exception:{str(ex)}')
+                        self.dual_print(f'download: Exception:{str(ex)}')
                         break
                 section_arr = np.concatenate(section_list)
                 section_im = Image.fromarray(section_arr)
                 section_im.save(os.path.join(self.pathToData, fileName), "JPEG")
             count += 1
 
-        print('-End')
+        self.dual_print('-End')
         return count
     
     def crawImageForOneBH(self, state:str, nvcl_id:str, num:int=999999, simulation:bool = False) -> int:
@@ -140,9 +143,10 @@ class NVCLBHImageCrawler:
         self.dual_print('crawlImage:End')
 
 def main():
-    imageCrawer:NVCLBHImageCrawler = NVCLBHImageCrawler(r'C:/Backup/github/jia020/myJupyterNotebooks/Data/')
+    imageCrawer:NVCLBHImageCrawler = NVCLBHImageCrawler(r'D:/github/Backup/nvcl/Data/')
     #imageCrawer.crawImageForOneBH('NSW','PET_000389',num=3,simulation=False)
-    imageCrawer.crawImageForOneBH('SA','227935',num=3,simulation=False)
+    imageCrawer.crawImageForOneBH('WA','MWEX10270',simulation=False)
+    #imageCrawer.crawImageForOneBH('WA','C3DD024',simulation=False)
     #imageCrawer.crawlImage(indexStart=99,num=10)#,simulation=True)
     #imageCrawer.crawlImage(simulation=True)                     
 if __name__ == "__main__":
